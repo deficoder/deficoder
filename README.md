@@ -33,23 +33,23 @@
         <tr>
             <td><img width="160" height="120" src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif"></td>
             <td><b>Web3</b></td>
-            <td align="left"><a href="https://myfirstnft.info"><img alt="myfirstnft" src="https://img.shields.io/badge/NFT-MyFirstNFT-yellowgreen"></a></td>
+            <td align="left"><a href="https://myfirstnft.info"><img alt="myfirstnft" src="https://img.shields.io/badge/MyFirstNFT-F7DF2E.svg?logo=MyFirstNFT&logoColor=white"></a></td>
         </tr>
         <!--    Visual and Design    -->
         <tr>
             <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif"></td>
             <td rowspan=2><b>Visual and Design</b></td>
             <td align="left">
-              <a href="https://zzetao.github.io/awesome-github-profile"><img alt="HTML" src="https://img.shields.io/badge/Github%20Profile-Awesome-yellowgreen"></a>
+              <a href="https://zzetao.github.io/awesome-github-profile"><img alt="Awesome Github Profile" src="https://img.shields.io/badge/AwesomeGithubProfile-11DF1E.svg?logo=Awesome&logoColor=white"></a>
               <br>
-              <a href="https://github.com/rzashakeri/beautify-github-profile"><img alt="HTML" src="https://img.shields.io/badge/Github%20Profile-Beautify-green"></a>
+              <a href="https://github.com/rzashakeri/beautify-github-profile"><img alt="Beautify Github Profile" src="https://img.shields.io/badge/BeautifyGithubProfile-D1321E.svg?logo=Beautify&logoColor=white"></a>
             </td>
         </tr>
         <tr>
             <td align="left">
-              <a href="https://giphy.com"><img alt="giphy" src="https://img.shields.io/badge/Icon-GIFs-green"></a>
+              <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1.svg?logo=Giphy&logoColor=white"></a>
               <br>
-              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Icon-Shields-brightgreen"></a>
+              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF.svg?logo=Shields&logoColor=white"></a>
               <br>
               <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/SVG-Typing-brightgreen"></a>
             </td>
