@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @deficoder
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning English and NFT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h3 align="center">Welcome to deficoder!</h3>
+<p align="center">
+  👋 Hi, I’m @deficoder 👀 I’m interested in coding 🌱 I’m currently learning English and NFT
+</p>
 
 <p align="center">
   <a href="https://github.com/deficoder/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&color=BB1ACFDF&vCenter=true&size=22&lines=Share+the+most+awesome+toolkits"></a>
