@@ -13,16 +13,18 @@
     <thead>
         <tr>
             <th colspan=2></th>
-            <th>Things I code with</th>
+            <th>Languages and Tools</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
-          <td colspan=2>
+          <td colspan=3>
             <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact&theme=radical">
           </td>
-          <td>
+        </tr>
+        <tr>
+          <td colspan=3>
             <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
             <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white">
             <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
