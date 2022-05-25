@@ -19,7 +19,8 @@
     <tbody align="center">
         <tr>
           <td colspan=2>
-            <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
+            <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact&theme=radical">
           </td>
           <td>
             <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
@@ -28,7 +29,6 @@
             <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white">
             <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
             <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
-            <img alt="WebPack" src="https://img.shields.io/badge/WebPack-8DD6F9?logo=webpack&logoColor=white">
             <a href="https://docs.soliditylang.org"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-141EE9?logo=Solidity&logoColor=white"></a>
             <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
             <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
@@ -37,8 +37,7 @@
         </tr>
         <tr>
           <td colspan=3>
-<!--             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue"> -->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&theme=radical">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
           </td>
         </tr>
         <tr>
