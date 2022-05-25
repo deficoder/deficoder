@@ -21,8 +21,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&line_height=20&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+<!--   <br> -->
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue"> -->
 </p>
 
 <table align="center">
