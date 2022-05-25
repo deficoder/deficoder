@@ -12,13 +12,12 @@
 <table align="center">
     <thead>
         <tr>
-            <th>🛠️ My favorite tools</th>
-            <th>Category</th>
-            <th>List</th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
     </thead>
     <tbody align="center">
-        <!--    Things I code with      -->
         <tr>
           <td colspan=2>
             <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
@@ -40,21 +39,9 @@
           </td>
         </tr>
         <tr>
-            <td><img width="160" height="120" src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif"></td>
-            <td><b>Programming</b></td>
-            <td align="left">
-              <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
-              <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white">
-              <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-              <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white" />
-              <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-              <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white">
-              <a href="https://docs.soliditylang.org"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-141EE9?logo=Solidity&logoColor=white"></a>
-              <br>
-              <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
-              <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
-              <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
-            </td>
+          <td>🛠️ My favorite tools</td>
+          <td>Category</td>
+          <td>List</td>
         </tr>
         <!--    Web3    -->
         <tr>
