@@ -29,9 +29,7 @@
             <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
             <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
             <img alt="WebPack" src="https://img.shields.io/badge/WebPack-8DD6F9?logo=webpack&logoColor=white">
-            <br>
             <a href="https://docs.soliditylang.org"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-141EE9?logo=Solidity&logoColor=white"></a>
-            <br>
             <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
             <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
             <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
