@@ -48,20 +48,15 @@
             <td rowspan=2><b>Visual and Design</b></td>
             <td align="left">
               <a href="https://zzetao.github.io/awesome-github-profile"><img alt="Awesome Github Profile" src="https://img.shields.io/badge/AwesomeProfile-11DF1E.svg?logo=Github&logoColor=white"></a>
-              <br>
               <a href="https://github.com/rzashakeri/beautify-github-profile"><img alt="Beautify Github Profile" src="https://img.shields.io/badge/BeautifyProfile-D1321E.svg?logo=Github&logoColor=white"></a>
             </td>
         </tr>
         <tr>
             <td align="left">
               <a href="https://simpleicons.org"><img alt="Simpleicons" src="https://img.shields.io/badge/Simpleicons-0E0704?logo=simpleicons&logoColor=white"></a>
-              <br>
               <a href="https://skillicons.dev"><img alt="Skillicons" src="https://img.shields.io/badge/skillicons.dev-52EBCB?logo=icon&logoColor=white"></a>
-              <br>
               <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1?logo=Giphy&logoColor=white"></a>
-              <br>
               <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF?logo=icon&logoColor=white"></a>
-              <br>
               <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/ReadmeTyping-9B66EE?logo=svg&logoColor=white"></a>
             </td>
         </tr>
@@ -82,19 +77,15 @@
           <td rowspan=2><b>Vedio and Audio</b></td>
           <td align="left">
             <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YoutubeDownload-FF0C2F?logo=youtube&logoColor=white"></a>
-            <br>
             <a href="https://languagelearningwithnetflix.com"><img alt="languagelearningwithnetflix" src="https://img.shields.io/badge/Netflix-BE0923?logo=netflix&logoColor=black"></a>
-            <br>
             <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/Netflix-Download-blue"></a>
           </td>
         </tr>
         <tr>
           <td align="left">
-            <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Audio-Extractor-red"></a>
-            <br>
-            <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/Audio-FFMPEG-red"></a>
-            <br>
-            <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/Audio-SubStudy-red"></a>
+            <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Audio-Extractor-52EBCB"></a>
+            <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/Audio-FFMPEG-EB180B"></a>
+            <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/Audio-SubStudy-EB438E"></a>
           </td>
         </tr>
         <!--          -->
@@ -102,11 +93,12 @@
     </tbody>
 </table>
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
-  <br>
   <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
-  <br>
+</p>
+  
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=deficoder&custom_title=deficoder%27s%20activity%20graph&theme=github-light&hide_border=true">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
