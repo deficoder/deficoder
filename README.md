@@ -54,6 +54,10 @@
         </tr>
         <tr>
             <td align="left">
+              <a href="https://simpleicons.org"><img alt="Simpleicons" src="https://img.shields.io/badge/Simpleicons-0E0704?logo=simpleicons&logoColor=white"></a>
+              <br>
+              <a href="https://skillicons.dev"><img alt="Skillicons" src="https://img.shields.io/badge/skillicons.dev-52EBCB?logo=icon&logoColor=white"></a>
+              <br>
               <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1?logo=Giphy&logoColor=white"></a>
               <br>
               <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF?logo=icon&logoColor=white"></a>
@@ -99,6 +103,10 @@
 </table>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+  <br>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
+  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=deficoder&custom_title=deficoder%27s%20activity%20graph&theme=github-light&hide_border=true">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
