@@ -91,10 +91,10 @@
         <!--          -->
         <tr>
           <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+            <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
           </td>
           <td colspan=2>
-            <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
           </td>
         </tr>
     </tbody>
