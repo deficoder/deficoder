@@ -7,46 +7,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&color=BB1ACFDF&vCenter=true&size=22&lines=Share+the+most+awesome+toolkits">
   <br>
   <img align="center" width="160" height="120" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
+  <br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
+  <a href="https://docs.soliditylang.org"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-141EE9?logo=Solidity&logoColor=white"></a>
+  <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact&theme=radical">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
 </p>
 
 <table align="center">
     <thead>
         <tr>
-            <th colspan=2></th>
-            <th>Languages and Tools</th>
+            <th>🛠️ My favorite tools</th>
+            <th>Category</th>
+            <th>List</th>
         </tr>
     </thead>
     <tbody align="center">
-        <tr>
-          <td colspan=3>
-            <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact&theme=radical">
-          </td>
-        </tr>
-        <tr>
-          <td colspan=3>
-            <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
-            <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white">
-            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-            <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white">
-            <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-            <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
-            <a href="https://docs.soliditylang.org"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-141EE9?logo=Solidity&logoColor=white"></a>
-            <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
-            <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
-            <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
-          </td>
-        </tr>
-        <tr>
-          <td colspan=3>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
-          </td>
-        </tr>
-        <tr>
-          <td>🛠️ My favorite tools</td>
-          <td>Category</td>
-          <td>List</td>
-        </tr>
         <!--    Web3    -->
         <tr>
             <td><img width="160" height="120" src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif"></td>
