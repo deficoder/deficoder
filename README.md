@@ -19,7 +19,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=deficoder&show_icons=true&line_height=20&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&layout=compact">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
