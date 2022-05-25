@@ -12,9 +12,8 @@
 <table align="center">
     <thead>
         <tr>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th colspan=2></th>
+            <th>Things I code with</th>
         </tr>
     </thead>
     <tbody align="center">
