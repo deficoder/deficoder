@@ -45,18 +45,18 @@
             <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif"></td>
             <td rowspan=2><b>Visual and Design</b></td>
             <td align="left">
-              <a href="https://zzetao.github.io/awesome-github-profile"><img alt="Awesome Github Profile" src="https://img.shields.io/badge/AwesomeGithubProfile-11DF1E.svg?logo=Awesome&logoColor=white"></a>
+              <a href="https://zzetao.github.io/awesome-github-profile"><img alt="Awesome Github Profile" src="https://img.shields.io/badge/AwesomeProfile-11DF1E.svg?logo=Github&logoColor=white"></a>
               <br>
-              <a href="https://github.com/rzashakeri/beautify-github-profile"><img alt="Beautify Github Profile" src="https://img.shields.io/badge/BeautifyGithubProfile-D1321E.svg?logo=Beautify&logoColor=white"></a>
+              <a href="https://github.com/rzashakeri/beautify-github-profile"><img alt="Beautify Github Profile" src="https://img.shields.io/badge/BeautifyProfile-D1321E.svg?logo=Github&logoColor=white"></a>
             </td>
         </tr>
         <tr>
             <td align="left">
-              <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1.svg?logo=Giphy&logoColor=white"></a>
+              <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1?logo=Giphy&logoColor=white"></a>
               <br>
-              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF.svg?logo=Shields&logoColor=white"></a>
+              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF?logo=icon&logoColor=white"></a>
               <br>
-              <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/SVG-Typing-brightgreen"></a>
+              <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/ReadmeTyping-9B66EE?logo=svg&logoColor=white"></a>
             </td>
         </tr>
         <!--     Language Acquisition     -->
@@ -75,9 +75,9 @@
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif"></td>
           <td rowspan=2><b>Vedio and Audio</b></td>
           <td align="left">
-            <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/Youtube-Download-blue"></a>
+            <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YoutubeDownload-FF0C2F?logo=youtube&logoColor=white"></a>
             <br>
-            <a href="https://languagelearningwithnetflix.com"><img alt="languagelearningwithnetflix" src="https://img.shields.io/badge/Netflix-Subtitle-blue"></a>
+            <a href="https://languagelearningwithnetflix.com"><img alt="languagelearningwithnetflix" src="https://img.shields.io/badge/Netflix-BE0923?logo=netflix&logoColor=black"></a>
             <br>
             <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/Netflix-Download-blue"></a>
           </td>
@@ -95,3 +95,9 @@
         <!--         <a href=""><img alt="HTML" src=""></a> -->
     </tbody>
 </table>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=deficoder&custom_title=deficoder%27s%20activity%20graph&theme=github-light&hide_border=true">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
