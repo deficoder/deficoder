@@ -36,6 +36,11 @@
           </td>
         </tr>
         <tr>
+          <td colspan=3>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+          </td>
+        </tr>
+        <tr>
           <td>🛠️ My favorite tools</td>
           <td>Category</td>
           <td>List</td>
@@ -96,8 +101,6 @@
 </table>
   
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
-  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=deficoder&custom_title=deficoder%27s%20activity%20graph&theme=github-light&hide_border=true">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
