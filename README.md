@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/deficoder/deficoder"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&color=BB1ACFDF&vCenter=true&size=22&lines=Share+the+most+awesome+toolkits"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&color=BB1ACFDF&vCenter=true&size=22&lines=Share+the+most+awesome+toolkits">
   <br>
   <img align="center" width="160" height="120" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
 </p>
@@ -18,15 +18,20 @@
         </tr>
     </thead>
     <tbody align="center">
-        <!--    Programming languages      -->
+        <!--    Things I code with      -->
         <tr>
             <td><img width="160" height="120" src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif"></td>
             <td><b>Programming</b></td>
             <td align="left">
-              <a href="https://github.com/search?q=language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=Python&logoColor=white"></a>
-              <a href="https://reactjs.org"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-              <a href="https://github.com/search?q=language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-              <a href="https://github.com/search?q=language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+              <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white">
+              <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white">
+              <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+              <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white" />
+              <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+              <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white">
+              <img alt="Github" src="https://img.shields.io/badge/Github-161D04?logo=github&logoColor=white">
+              <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white">
+              <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-46a2ff?logo=Kubernetes&logoColor=white">
             </td>
         </tr>
         <!--    Web3    -->
