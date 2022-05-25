@@ -89,14 +89,16 @@
           </td>
         </tr>
         <!--          -->
-        <!--         <a href=""><img alt="HTML" src=""></a> -->
+        <tr>
+          <td>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+          </td>
+          <td colspan=2>
+            <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
+          </td>
+        </tr>
     </tbody>
 </table>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=deficoder">
-</p>
   
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=deficoder&custom_title=deficoder%27s%20activity%20graph&theme=github-light&hide_border=true">
