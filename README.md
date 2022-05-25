@@ -37,7 +37,8 @@
         </tr>
         <tr>
           <td colspan=3>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue">
+<!--             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deficoder&theme=vue"> -->
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deficoder&theme=radical">
           </td>
         </tr>
         <tr>
