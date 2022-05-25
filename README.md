@@ -25,8 +25,8 @@
             <td align="left">
               <a href="https://github.com/search?q=language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=Python&logoColor=white"></a>
               <a href="https://reactjs.org"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-              <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-              <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+              <a href="https://github.com/search?q=language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+              <a href="https://github.com/search?q=language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
             </td>
         </tr>
         <!--    Web3    -->
