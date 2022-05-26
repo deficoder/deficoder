@@ -69,7 +69,10 @@
         </tr>
         <tr>
             <td><b>Tools</b></td>
-            <td align="left"><a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Refold-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a></td>
+            <td align="left">
+              <a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Refold-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a>
+              <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubtitleConverter-E5426E?logo=kashflow&logoColor=white"></a>
+            </td>
         </tr>
         <!--     Vedio and Audio     -->
         <tr>
