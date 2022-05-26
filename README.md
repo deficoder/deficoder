@@ -60,13 +60,15 @@
         </tr>
         <!--     Language Acquisition     -->
         <tr>
-          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/Ykf1BylT4ilfAV73lI/giphy.gif"></td>
-          <td rowspan=2><b>Language Acquisition</b></td>
+          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
+          <td><b>Language Acquisition</b></td>
           <td align="left">
             <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-Roadmap-red"></a>
+            <a href="https://supermemo.com"><img alt="Supermemo" src="https://simpleicons.org/icons/musicbrainz.svg"></a>
           </td>
         </tr>
         <tr>
+            <td><b>Tools</b></td>
             <td align="left"><a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Anki-SRS-blue"></a></td>
         </tr>
         <!--     Vedio and Audio     -->
