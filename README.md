@@ -52,9 +52,9 @@
         <tr>
             <td align="left">
               <a href="https://simpleicons.org"><img alt="Simpleicons" src="https://img.shields.io/badge/Simpleicons-0E0704?logo=simpleicons&logoColor=white"></a>
-              <a href="https://skillicons.dev"><img alt="Skillicons" src="https://img.shields.io/badge/skillicons.dev-52EBCB?logo=icon&logoColor=white"></a>
+              <a href="https://skillicons.dev"><img alt="Skillicons" src="https://img.shields.io/badge/skillicons.dev-2196F3?logo=materialdesignicons&logoColor=white"></a>
               <a href="https://giphy.com"><img alt="Giphy" src="https://img.shields.io/badge/Giphy-A421E1?logo=Giphy&logoColor=white"></a>
-              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-23BAFF?logo=icon&logoColor=white"></a>
+              <a href="https://shields.io"><img alt="shields" src="https://img.shields.io/badge/Shields-000000?logo=shieldsdotio&logoColor=white"></a>
               <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/ReadmeTyping-9B66EE?logo=svg&logoColor=white"></a>
             </td>
         </tr>
@@ -63,29 +63,29 @@
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
           <td><b>Language Acquisition</b></td>
           <td align="left">
-            <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-Roadmap-red"></a>
-            <a href="https://supermemo.com"><img alt="Supermemo" src="https://simpleicons.org/icons/musicbrainz.svg"></a>
+            <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-2932E1?logo=roamresearch&logoColor=white"></a>
+            <a href="https://supermemo.com"><img alt="Supermemo" src="https://img.shields.io/badge/SuperMemo-BA478F?logo=musicbrainz&logoColor=white"></a>
           </td>
         </tr>
         <tr>
             <td><b>Tools</b></td>
-            <td align="left"><a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Anki-SRS-blue"></a></td>
+            <td align="left"><a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Refold-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a></td>
         </tr>
         <!--     Vedio and Audio     -->
         <tr>
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif"></td>
           <td rowspan=2><b>Vedio and Audio</b></td>
           <td align="left">
-            <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YoutubeDownload-FF0C2F?logo=youtube&logoColor=white"></a>
-            <a href="https://languagelearningwithnetflix.com"><img alt="languagelearningwithnetflix" src="https://img.shields.io/badge/Netflix-BE0923?logo=netflix&logoColor=black"></a>
-            <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/Netflix-Download-blue"></a>
+            <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
+            <a href="https://languagelearningwithnetflix.com"><img alt="LanguageLearningWithNetflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=black"></a>
+            <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/FlixGrab-00B14F?logo=grab&logoColor=black"></a>
           </td>
         </tr>
         <tr>
           <td align="left">
-            <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Audio-Extractor-52EBCB"></a>
-            <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/Audio-FFMPEG-EB180B"></a>
-            <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/Audio-SubStudy-EB438E"></a>
+            <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
+            <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?logo=ffmpeg&logoColor=red"></a>
+            <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/SubStudy-FFA200?logo=audiomack&logoColor=black"></a>
           </td>
         </tr>
     </tbody>
