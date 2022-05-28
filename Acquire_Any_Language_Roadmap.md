@@ -41,7 +41,6 @@
           <a href="https://www.scribd.com"><img alt="Scribd" src="https://img.shields.io/badge/Scribd-1E7B85?logo=Scribd&logoColor=white"></a>
         </td>
       </tr>
-      
       <tr>
         <td colspan=3>Vedio Tools</td>
       </tr>
@@ -59,7 +58,6 @@
           <a href="https://languagelearningwithnetflix.com"><img alt="LanguageLearningWithNetflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=black"></a>
         </td>
       </tr>
-      
       <tr>
         <td colspan=3>Audio Tools</td>
       </tr>
@@ -76,7 +74,6 @@
           <a href=""><img alt="" src=""></a>
         </td>
       </tr>
-      
       <tr>
         <td colspan=3>Subtitle Tools</td>
       </tr>
@@ -117,19 +114,53 @@
   <tbody>
     <tr>
       <!-- Video Download -->
-      <td></td>
+      <td>
+        ```
+        1. Netflix: Open FlixGrab and Paste Video URL
+        2. Youtube: youtube-dl
+        ```
+      </td>
       
       <!-- Audio Extract -->
-      <td></td>
+      <td>
+        ```
+        1. <a href="https://audio-extractor.net">extractor</a>
+        2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o {pathDir}/'%(title)s.{vedio_id}.%(ext)s' -k BaW_jenozKc --restrict-filenames
+        ```
+      </td>
       
       <!-- Subtitle Processing -->
-      <td></td>
+      <td>
+        ```
+        1. Download .ttml from url like `?o=1&...`
+           Convert .ttml to .srt use <a href="https://gotranscript.com/subtitle-converter">converter</a> and <a href="https://easypronunciation.com">phonetic symbol(paid)
+</a>
+        2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
+        ```
+      </td>
       
       <!-- Clips to SRS -->
-      <td></td>
+      <td>
+        1. Open subs2srs
+        2. Click Subs1...: Choice target.srt subtitle file
+        3. Click Output.: Choice save path
+        4. Click Subs2...: Choice native.srt or phonetic.srt
+        5. Click Video..: Choice target video
+        6. Check box: Generate audio clips or Generate video clips, Generate snapshots
+        7. Naming output file
+        8. Click Preview...: Check if audio/video matches subtitles
+        9. Click Go! and Wait for the clip to finish
+        10. Import output.tsv into Anki and adjust field order as (Tags,sequence marker,Audio,Snapshot,Expression)
+        11. Copy all files in the output.media directory to the %APPDATA%/anki2/User 1/collection.media directory
+        12. Sync Anki Deck
+      </td>
       
       <!-- New Words -->
-      <td></td>
+      <td>
+        ```
+        1. Add a new card to Anki
+        ```
+      </td>
     </tr>
   </tbody>
 </table>
