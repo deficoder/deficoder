@@ -62,8 +62,8 @@
         <td colspan=3>Audio Tools</td>
       </tr>
       <tr>
-        <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/4NgwwfVfvlHUWUwBvr/giphy.gif"></td>
-        <td></td>
+        <td><img width="160" height="120" src="https://media.giphy.com/media/4NgwwfVfvlHUWUwBvr/giphy.gif"></td>
+        <td><b>extractor</b></td>
         <td>
           <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
           <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?logo=ffmpeg&logoColor=red"></a>
@@ -110,47 +110,54 @@
     <tr>
       <!-- Video Download -->
       <td>
-        ```
         1. Netflix: Open FlixGrab and Paste Video URL
-        2. Youtube: youtube-dl
-        ```
+        <br>
+        2. Youtube: command line tool `youtube-dl`
       </td>
       <!-- Audio Extract -->
       <td>
-        ```
-        1. <a href="https://audio-extractor.net">extractor</a>
-        2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o {pathDir}/'%(title)s.{vedio_id}.%(ext)s' -k BaW_jenozKc --restrict-filenames
-        ```
+        1. Netflix: <a href="https://audio-extractor.net">extractor</a>
+        <br>
+        2. Youtube: youtube-dl --extract-audio --audio-format mp3 --write-sub -o {pathDir}/'%(title)s.{vedio_id}.%(ext)s' -k BaW_jenozKc --restrict-filenames
       </td>
       <!-- Subtitle Processing -->
       <td>
-        ```
         1. Download .ttml from url like `?o=1&...`
+           <br>
            Convert .ttml to .srt use <a href="https://gotranscript.com/subtitle-converter">converter</a> and <a href="https://easypronunciation.com">phonetic symbol(paid)
 </a>
+        <br>
         2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
-        ```
       </td>
       <!-- Clips to SRS -->
       <td>
         1. Open subs2srs
+        <br>
         2. Click Subs1...: Choice target.srt subtitle file
+        <br>
         3. Click Output.: Choice save path
+        <br>
         4. Click Subs2...: Choice native.srt or phonetic.srt
+        <br>
         5. Click Video..: Choice target video
+        <br>
         6. Check box: Generate audio clips or Generate video clips, Generate snapshots
+        <br>
         7. Naming output file
+        <br>
         8. Click Preview...: Check if audio/video matches subtitles
+        <br>
         9. Click Go! and Wait for the clip to finish
+        <br>
         10. Import output.tsv into Anki and adjust field order as (Tags,sequence marker,Audio,Snapshot,Expression)
+        <br>
         11. Copy all files in the output.media directory to the %APPDATA%/anki2/User 1/collection.media directory
+        <br>
         12. Sync Anki Deck
       </td>
       <!-- New Words -->
       <td>
-        ```
         1. Add a new card to Anki
-        ```
       </td>
     </tr>
   </tbody>
