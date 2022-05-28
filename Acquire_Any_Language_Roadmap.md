@@ -74,7 +74,7 @@
       </tr>
       <tr>
         <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/UWKSMMW2totha41rma/giphy.gif"></td>
-        <td rowspan=2></td>
+        <td rowspan=2><b>Words</b></td>
         <td align="left">
           <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
           <a href="https://easypronunciation.com"><img alt="EasyPronunciation" src="https://img.shields.io/badge/Pronunciation-000000?logo=symfony&logoColor=white"></a>
@@ -133,15 +133,15 @@
         1. Open subs2srs 
         <br>
         <a href="#" alt="target.srt">Subs1</a>
-         · 
+         -> 
         <a href="#" alt="save path">Output</a>
-         · 
+         -> 
         <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
-         · 
+         -> 
         <a href="#" alt="target clips video">Video</a>
-         · 
+         -> 
         <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
-         · 
+         -> 
         <a href="#" alt="Name of Anki Deck">Naming output file</a>
         <br>
         2. <a href="Check matches subtitles">Preview</a>
