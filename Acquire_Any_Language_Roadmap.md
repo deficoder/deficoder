@@ -133,13 +133,17 @@
         1. Open subs2srs 
         <br>
         <a href="#" alt="target.srt">Subs1</a>
+         · 
         <a href="#" alt="save path">Output</a>
+         · 
         <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
-        <br>
+         · 
         <a href="#" alt="target clips video">Video</a>
+         · 
         <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
-        <br>
+         · 
         <a href="#" alt="Name of Anki Deck">Naming output file</a>
+        <br>
         2. <a href="Check matches subtitles">Preview</a>
         <br>
         3. <a href="#" alt="Wait for the clip to finish">Go!</a>
