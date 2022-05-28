@@ -53,7 +53,7 @@
       </tr>
       <tr>
         <td><b>Netflix</b></td>
-        <td>
+        <td align="left">
           <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/FlixGrab-00B14F?logo=grab&logoColor=black"></a>
           <a href="https://languagelearningwithnetflix.com"><img alt="LanguageLearningWithNetflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=black"></a>
         </td>
@@ -64,7 +64,7 @@
       <tr>
         <td><img width="160" height="120" src="https://media.giphy.com/media/4NgwwfVfvlHUWUwBvr/giphy.gif"></td>
         <td><b>extractor</b></td>
-        <td>
+        <td align="left">
           <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
           <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?logo=ffmpeg&logoColor=red"></a>
         </td>
@@ -75,20 +75,20 @@
       <tr>
         <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/UWKSMMW2totha41rma/giphy.gif"></td>
         <td rowspan=2></td>
-        <td>
-          <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
+        <td align="left">
           <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
           <a href="https://easypronunciation.com"><img alt="EasyPronunciation" src="https://img.shields.io/badge/Pronunciation-000000?logo=symfony&logoColor=white"></a>
+          <br>
+          <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
           <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
           <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
         </td>
       </tr>
       <tr>
-        <td>
+        <td align="left">
           <a href="https://www.wordreference.com"><img alt="WordReference" src="https://img.shields.io/badge/WordReference-002157?logo=airfrance&logoColor=white"></a>
           <a href="https://readlang.com"><img alt="ReadLang" src="https://img.shields.io/badge/ReadLang-8CA1AF?logo=readthedocs&logoColor=white"></a>
           <a href="https://www.linguee.com"><img alt="Linguee" src="https://img.shields.io/badge/Linguee-006272?logo=letterboxd&logoColor=white"></a>
-          <!-- <a href=""><img alt="" src=""></a> -->
         </td>
       </tr>
     </tbody>
@@ -132,16 +132,14 @@
       <td>
         1. Open subs2srs 
         <br>
-        Subs1(target.srt) Output(save path)
+        <a href="#" alt="target.srt">Subs1</a>
+        <a href="#" alt="save path">Output</a>
+        <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
         <br>
-        Subs2(native.srt or phonetic.srt)
+        <a href="#" alt="target clips video">Video</a>
+        <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
         <br>
-        Video(clips video)
-        <br>
-        Generate audio/video/snapshots clips
-        <br>
-        Naming output file
-        <br>
+        <a href="#" alt="Name of Anki Deck">Naming output file</a>
         2. <a href="Check matches subtitles">Preview</a>
         <br>
         3. <a href="#" alt="Wait for the clip to finish">Go!</a>
