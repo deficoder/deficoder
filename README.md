@@ -61,7 +61,7 @@
         <!--     Language Acquisition     -->
         <tr>
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
-          <td rowspan=2><b>Acquire Any Language</b>Subs2srs</td>
+          <td rowspan=2><b>Acquire Any Language</b></td>
           <td align="left">
             <a href="https://learnanylanguage.fandom.com/wiki/Subs2srs"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-000000?logo=wikipedia&logoColor=white"></a>
             <a href="http://www.sdkrashen.com"><img alt="SDKrashen" src="https://img.shields.io/badge/SDKrashen-179287?logo=gitkraken&logoColor=black"></a>
