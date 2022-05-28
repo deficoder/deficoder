@@ -94,18 +94,20 @@
     </tbody>
 </table>
 
-<p align="center"><h4>Create learning materials</h4></p>
 <table>
   <thead>
     <tr>
-      <th>Video Download</th>
-      <th>Audio Extract</th>
-      <th>Subtitle Processing</th>
-      <th>Clips to SRS</th>
-      <th>New Words</th>
+      <th colspan=5 align="center">Create learning materials</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Video Download</td>
+      <td>Audio Extract</td>
+      <td>Subtitle Processing</td>
+      <td>Clips to SRS</td>
+      <td>New Words</td>
+    </tr>
     <tr>
       <!-- Video Download -->
       <td>
@@ -137,11 +139,12 @@
         <a href="#" alt="save path">Output</a>
          -> 
         <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
-         -> 
-        <a href="#" alt="target clips video">Video</a>
         <br>
          -> 
+        <a href="#" alt="target clips video">Video</a>
+         -> 
         <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
+        <br>
          -> 
         <a href="#" alt="Name of Anki Deck">Naming output file</a>
         <br>
