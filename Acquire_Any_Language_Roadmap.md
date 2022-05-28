@@ -1,7 +1,4 @@
-<h3 align="center">Welcome to Acquire Any Language Roadmap!</h3>
-<p align="center">
-  👋 Hi, I’m @deficoder 👀 I’m interested in coding 🌱 I’m currently learning English and NFT
-</p>
+<h3 align="center">👋 Hi, I’m @deficoder. Welcome to Acquire Any Language Roadmap!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22&color=F7542E&lines=Learn+Langs+Step+By+Step">
@@ -12,9 +9,7 @@
   <a href="http://subs2srs.sourceforge.net"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-809CC9?logo=subversion&logoColor=black"><a/>
   <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/FlixGrab-00B14F?logo=grab&logoColor=black"></a>
   <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
-  
   <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/SubStudy-FFA200?logo=audiomack&logoColor=black"></a>
-  
   <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-2932E1?logo=roamresearch&logoColor=white"></a>
   <a href="http://www.sdkrashen.com"><img alt="SDKrashen" src="https://img.shields.io/badge/SDKrashen-179287?logo=gitkraken&logoColor=black"></a>
 </p>
@@ -22,7 +17,7 @@
 <table align="center">
     <thead>
         <tr>
-          <th colspan=3></th>
+          <th colspan=3><b>Learning Languages Using TV Shows and Subtitles</b></th>
         </tr>
     </thead>
     <tbody align="center">
