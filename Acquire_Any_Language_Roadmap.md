@@ -94,7 +94,7 @@
     </tbody>
 </table>
 
-<p align="center"><b>Create learning materials</b></p>
+<p align="center"><h4>Create learning materials</h4></p>
 <table>
   <thead>
     <tr>
@@ -121,12 +121,12 @@
       </td>
       <!-- Subtitle Processing -->
       <td>
-        1. <a alt="url like `?o=1&...`">Download .ttml</a>
+        1. <a href="#" alt="url like `?o=1&...`">Download .ttml</a>
            <br>
            Convert .ttml to .srt: <a href="https://gotranscript.com/subtitle-converter">converter</a> and <a href="https://easypronunciation.com">phonetic symbol(paid)
 </a>
         <br>
-        2. <a alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
+        2. <a href="#" alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
       </td>
       <!-- Clips to SRS -->
       <td>
@@ -144,11 +144,11 @@
         <br>
         2. <a href="Check matches subtitles">Preview</a>
         <br>
-        3. <a alt="Wait for the clip to finish">Go!</a>
+        3. <a href="#" alt="Wait for the clip to finish">Go!</a>
         <br>
-        4. <a alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
+        4. <a href="#" alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
         <br>
-        5. <a alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
+        5. <a href="#" alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
         <br>
         6. Sync Anki Deck
       </td>
