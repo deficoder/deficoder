@@ -82,6 +82,8 @@
           <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
           <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
           <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
+          <br>
+          <a href="http://sublearning.com"><img alt="SubLearning" src="https://img.shields.io/badge/SubLearning-DE00A5?logo=futurelearn&logoColor=white"></a>
         </td>
       </tr>
       <tr>
