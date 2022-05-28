@@ -79,10 +79,12 @@
         </tr>
         <tr>
             <td align="left">
+              <a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Ankiweb-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a>
               <a href="http://subs2srs.sourceforge.net"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-809CC9?logo=subversion&logoColor=black"><a/>
               <a href="https://handbrake.fr"><img alt="HandBrake" src="https://img.shields.io/badge/HandBrake-000000?logo=handshake_protocol&logoColor=white"></a>
               <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
-              <a href="https://apps.ankiweb.net"><img alt="ankiweb" src="https://img.shields.io/badge/Ankiweb-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a>
+              <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
+              <a href="https://easypronunciation.com"><img alt="EasyPronunciation" src="https://img.shields.io/badge/Pronunciation-000000?logo=symfony&logoColor=white"></a>
               <br>
               <a href="https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl"><img alt="VideoStream for Google Chromecast" src="https://img.shields.io/badge/Videostream-4285F4?logo=googlechrome&logoColor=white"></a>
               <a href="https://www.imdb.com"><img alt="IMDB" src="https://img.shields.io/badge/IMDB-F5C518?logo=imdb&logoColor=black"></a>
@@ -90,7 +92,6 @@
               <br>
               <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
               <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
-              <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubtitleConverter-E5426E?logo=kashflow&logoColor=white"></a>
               <br>
               <a href="https://www.wordreference.com"><img alt="WordReference" src="https://img.shields.io/badge/WordReference-002157?logo=airfrance&logoColor=white"></a>
               <a href="https://readlang.com"><img alt="ReadLang" src="https://img.shields.io/badge/ReadLang-8CA1AF?logo=readthedocs&logoColor=white"></a>
