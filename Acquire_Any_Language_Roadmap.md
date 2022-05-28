@@ -74,7 +74,7 @@
       </tr>
       <tr>
         <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/UWKSMMW2totha41rma/giphy.gif"></td>
-        <td rowspan=2><b>Words</b></td>
+        <td rowspan=2><b>sentence</b></td>
         <td align="left">
           <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
           <a href="https://easypronunciation.com"><img alt="EasyPronunciation" src="https://img.shields.io/badge/Pronunciation-000000?logo=symfony&logoColor=white"></a>
@@ -139,6 +139,7 @@
         <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
          -> 
         <a href="#" alt="target clips video">Video</a>
+        <br>
          -> 
         <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
          -> 
