@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I’m @deficoder. Welcome to Acquire Any Language Roadmap!</h3>
+<h3 align="center">Acquire Any Language Roadmap</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22&color=F7542E&lines=Learn+Langs+Step+By+Step">
