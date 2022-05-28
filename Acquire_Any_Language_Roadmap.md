@@ -125,7 +125,7 @@
       <td>
         1. <a href="#" alt="url like `?o=1&...`">Download .ttml</a>
            <br>
-           Convert to .srt <a href="https://gotranscript.com/subtitle-converter">converter</a> | <a href="https://easypronunciation.com">phonetic
+           To `.srt` <a href="https://gotranscript.com/subtitle-converter">Convert</a> · <a href="https://easypronunciation.com">Phonetic
 </a>
         <br>
         2. <a href="#" alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
