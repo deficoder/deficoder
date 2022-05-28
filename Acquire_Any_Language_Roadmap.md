@@ -67,11 +67,6 @@
         <td>
           <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
           <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?logo=ffmpeg&logoColor=red"></a>
-          
-          <a href=""><img alt="" src=""></a>
-          <a href=""><img alt="" src=""></a>
-          <a href=""><img alt="" src=""></a>
-          <a href=""><img alt="" src=""></a>
         </td>
       </tr>
       <tr>
@@ -120,7 +115,6 @@
         2. Youtube: youtube-dl
         ```
       </td>
-      
       <!-- Audio Extract -->
       <td>
         ```
@@ -128,7 +122,6 @@
         2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o {pathDir}/'%(title)s.{vedio_id}.%(ext)s' -k BaW_jenozKc --restrict-filenames
         ```
       </td>
-      
       <!-- Subtitle Processing -->
       <td>
         ```
@@ -138,7 +131,6 @@
         2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
         ```
       </td>
-      
       <!-- Clips to SRS -->
       <td>
         1. Open subs2srs
@@ -154,7 +146,6 @@
         11. Copy all files in the output.media directory to the %APPDATA%/anki2/User 1/collection.media directory
         12. Sync Anki Deck
       </td>
-      
       <!-- New Words -->
       <td>
         ```
