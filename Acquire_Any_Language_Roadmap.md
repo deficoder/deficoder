@@ -17,7 +17,7 @@
 <table align="center">
     <thead>
         <tr>
-          <th colspan=3><b>Learning Languages Using TV Shows and Subtitles</b></th>
+          <th colspan=3 align="center"><b>Learning Languages Using TV Shows and Subtitles</b></th>
         </tr>
     </thead>
     <tbody align="center">
