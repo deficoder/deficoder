@@ -121,40 +121,40 @@
       </td>
       <!-- Subtitle Processing -->
       <td>
-        1. Download .ttml: url like `?o=1&...`
+        1. <a alt="url like `?o=1&...`">Download .ttml</a>
            <br>
            Convert .ttml to .srt: <a href="https://gotranscript.com/subtitle-converter">converter</a> and <a href="https://easypronunciation.com">phonetic symbol(paid)
 </a>
         <br>
-        2. youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
+        2. <a alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
       </td>
       <!-- Clips to SRS -->
       <td>
         1. Open subs2srs 
         <br>
-        2. **Subs1**(target.srt) **Output**(save path)
+        Subs1(target.srt) Output(save path)
         <br>
-        3. **Subs2**(native.srt or phonetic.srt)
+        Subs2(native.srt or phonetic.srt)
         <br>
-        4. **Video**(clips video)
+        Video(clips video)
         <br>
-        5. Checkbox **Generate audio/video clips** **Generate snapshots**
+        Generate audio/video/snapshots clips
         <br>
-        6. Naming output file
+        Naming output file
         <br>
-        7. **Preview** Check matches subtitles
+        2. <a href="Check matches subtitles">Preview</a>
         <br>
-        8. **Go!** Wait for the clip to finish
+        3. <a alt="Wait for the clip to finish">Go!</a>
         <br>
-        9. Anki Import output.tsv(Tags,sequence marker,Audio,Snapshot,Expression)
+        4. <a alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
         <br>
-        10. cp output.media/* `%APPDATA%/anki2/User 1/collection.media`
+        5. <a alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
         <br>
-        11. Sync Anki Deck
+        6. Sync Anki Deck
       </td>
       <!-- New Words -->
       <td>
-        1. Add a new card to Anki
+        1. Anki Add Card
       </td>
     </tr>
   </tbody>
