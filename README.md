@@ -73,7 +73,7 @@
             <br>
             <a href="http://how-to-learn-any-language.com"><img alt="HowTo" src="https://img.shields.io/badge/HowToLearn-4DBC15?logo=houzz&logoColor=white"></a>
             <a href="https://forum.language-learners.org"><img alt="Forum" src="https://img.shields.io/badge/Forum-21B573?logo=formstack&logoColor=white"></a>
-            <a href="./Acquire_Any_Language_Roadmap.md"><img alt="https://img.shields.io/badge/ReadMore-FFFFFF?logo=leanpub&logoColor=black"></a>
+            <a href="./Acquire_Any_Language_Roadmap.md"><b>Read More...</b></a>
           </td>
         </tr>
         <tr>
