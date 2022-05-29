@@ -39,6 +39,7 @@
       <tr>
         <td align="left">
           <a href="https://www.scribd.com"><img alt="Scribd" src="https://img.shields.io/badge/Scribd-1E7B85?logo=Scribd&logoColor=white"></a>
+          <a href="https://learnenglish.britishcouncil.org"><img alt="BritishCouncil" src="https://img.shields.io/badge/BritCouncil-FFF000?logo=intercom&logoColor=white"></a>
         </td>
       </tr>
       <tr>
@@ -88,8 +89,8 @@
       </tr>
       <tr>
         <td align="left">
-          <a href="https://www.wordreference.com"><img alt="WordReference" src="https://img.shields.io/badge/WordReference-002157?logo=airfrance&logoColor=white"></a>
           <a href="https://readlang.com"><img alt="ReadLang" src="https://img.shields.io/badge/ReadLang-8CA1AF?logo=readthedocs&logoColor=white"></a>
+          <a href="https://www.wordreference.com"><img alt="WordReference" src="https://img.shields.io/badge/WordReference-002157?logo=airfrance&logoColor=white"></a>
           <a href="https://www.linguee.com"><img alt="Linguee" src="https://img.shields.io/badge/Linguee-006272?logo=letterboxd&logoColor=white"></a>
         </td>
       </tr>
