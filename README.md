@@ -61,7 +61,7 @@
         <!--     Language Acquisition     -->
         <tr>
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
-          <td rowspan=2><b>Acquire Any Language</b></td>
+          <td rowspan=2><a href="./Acquire_Any_Language_Roadmap.md"><b>Acquire Any Language</b></a></td>
           <td align="left">
             <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-2932E1?logo=roamresearch&logoColor=white"></a>
             <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/SubStudy-FFA200?logo=audiomack&logoColor=black"></a>
@@ -73,7 +73,6 @@
             <br>
             <a href="http://how-to-learn-any-language.com"><img alt="HowTo" src="https://img.shields.io/badge/HowToLearn-4DBC15?logo=houzz&logoColor=white"></a>
             <a href="https://forum.language-learners.org"><img alt="Forum" src="https://img.shields.io/badge/Forum-21B573?logo=formstack&logoColor=white"></a>
-            <a href="./Acquire_Any_Language_Roadmap.md"><b>Read More...</b></a>
           </td>
         </tr>
         <tr>
