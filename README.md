@@ -64,17 +64,16 @@
           <td rowspan=2><b>Acquire Any Language</b></td>
           <td align="left">
             <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-2932E1?logo=roamresearch&logoColor=white"></a>
-            <br>
             <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/SubStudy-FFA200?logo=audiomack&logoColor=black"></a>
-            <br>
             <a href="https://learnanylanguage.fandom.com/wiki/Subs2srs"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-000000?logo=wikipedia&logoColor=white"></a>
-            <a href="https://web.archive.org/web/20160531061258/http://learnlangs.com/step-by-step/understand_TV_in_30_days"><img alt="learnlangs" src="https://img.shields.io/badge/LearnLangs-FFFFFF?logo=leanpub&logoColor=black"></a>
-            <a href="http://how-to-learn-any-language.com"><img alt="HowTo" src="https://img.shields.io/badge/HowToLearn-4DBC15?logo=houzz&logoColor=white"></a>
-            <a href="https://forum.language-learners.org"><img alt="Forum" src="https://img.shields.io/badge/Forum-21B573?logo=formstack&logoColor=white"></a>
             <br>
             <a href="http://www.sdkrashen.com"><img alt="SDKrashen" src="https://img.shields.io/badge/SDKrashen-179287?logo=gitkraken&logoColor=black"></a>
             <a href="https://mandarinexperiment.com"><img alt="Mandarin" src="https://img.shields.io/badge/Mandarin-35BF5C?logo=manjaro&logoColor=black"></a>
             <a href="https://supermemo.com"><img alt="Supermemo" src="https://img.shields.io/badge/SuperMemo-BA478F?logo=musicbrainz&logoColor=white"></a>
+            <br>
+            <a href="http://how-to-learn-any-language.com"><img alt="HowTo" src="https://img.shields.io/badge/HowToLearn-4DBC15?logo=houzz&logoColor=white"></a>
+            <a href="https://forum.language-learners.org"><img alt="Forum" src="https://img.shields.io/badge/Forum-21B573?logo=formstack&logoColor=white"></a>
+            [Read More...](Acquire_Any_Language_Roadmap.md)
           </td>
         </tr>
         <tr>
@@ -83,35 +82,21 @@
               <a href="http://subs2srs.sourceforge.net"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-809CC9?logo=subversion&logoColor=black"><a/>
               <a href="https://handbrake.fr"><img alt="HandBrake" src="https://img.shields.io/badge/HandBrake-000000?logo=handshake_protocol&logoColor=white"></a>
               <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
-              <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
-              <a href="https://easypronunciation.com"><img alt="EasyPronunciation" src="https://img.shields.io/badge/Pronunciation-000000?logo=symfony&logoColor=white"></a>
               <br>
-              <a href="https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl"><img alt="VideoStream for Google Chromecast" src="https://img.shields.io/badge/Videostream-4285F4?logo=googlechrome&logoColor=white"></a>
-              <a href="https://www.imdb.com"><img alt="IMDB" src="https://img.shields.io/badge/IMDB-F5C518?logo=imdb&logoColor=black"></a>
               <a href="https://animecards.site"><img alt="AnimeCards" src="https://img.shields.io/badge/AnimeCards-FF7143?logo=googlecardboard&logoColor=white"></a>
               <br>
               <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
               <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
-              <br>
-              <a href="https://www.wordreference.com"><img alt="WordReference" src="https://img.shields.io/badge/WordReference-002157?logo=airfrance&logoColor=white"></a>
-              <a href="https://readlang.com"><img alt="ReadLang" src="https://img.shields.io/badge/ReadLang-8CA1AF?logo=readthedocs&logoColor=white"></a>
-              <a href="https://www.linguee.com"><img alt="Linguee" src="https://img.shields.io/badge/Linguee-006272?logo=letterboxd&logoColor=white"></a>
             </td>
         </tr>
         <!--     Vedio and Audio     -->
         <tr>
-          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif"></td>
-          <td rowspan=2><b>Vedio and Audio</b></td>
+          <td><img width="160" height="120" src="https://media.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif"></td>
+          <td><b>Vedio and Audio</b></td>
           <td align="left">
             <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
-            <a href="https://languagelearningwithnetflix.com"><img alt="LanguageLearningWithNetflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=black"></a>
             <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/FlixGrab-00B14F?logo=grab&logoColor=black"></a>
-          </td>
-        </tr>
-        <tr>
-          <td align="left">
             <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
-            <a href="https://ffmpeg.org"><img alt="ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?logo=ffmpeg&logoColor=red"></a>
           </td>
         </tr>
     </tbody>
