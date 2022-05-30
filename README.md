@@ -100,7 +100,13 @@
         </tr>
         <!-- LifeStyle Design -->
         <tr>
-          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/BNhoNmJ4uuYiUJdhXB/giphy.gif"></td>
+          <td rowspan=3><img width="160" height="120" src="https://media.giphy.com/media/BNhoNmJ4uuYiUJdhXB/giphy.gif"></td>
+          <td><b>Value of Time</b></td>
+          <td align="left">
+            <a href="https://jamesclear.com/value-of-time"><img alt="TimeValue" src="https://img.shields.io/badge/TimeValue-FDB515?logo=timescale&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
           <td><b>LifeStyle Design</b></td>
           <td align="left">
             <a href="https://retireinprogress.com"><img alt="RetireinProgress" src="https://img.shields.io/badge/Retirein-1299F3?logo=mediafire&logoColor=white"></a>
