@@ -98,6 +98,20 @@
             <a href="https://audio-extractor.net"><img alt="audio-extractor" src="https://img.shields.io/badge/Extractor-007CE2?logo=audioboom&logoColor=black"></a>
           </td>
         </tr>
+        <!-- LifeStyle Design -->
+        <tr>
+          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/BNhoNmJ4uuYiUJdhXB/giphy.gif"></td>
+          <td><b>LifeStyle Design</b></td>
+          <td align="left">
+            <a href="https://retireinprogress.com"><img alt="RetireinProgress" src="https://img.shields.io/badge/Retirein-1299F3?logo=mediafire&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Productivity</b></td>
+          <td align="left">
+            <a href="https://fortelabs.co"><img alt="ForteLabs.co" src="https://img.shields.io/badge/ForteLabs-734F96?logo=fortran&logoColor=white"></a>
+          </td>
+        </tr>
     </tbody>
 </table>
   
