@@ -172,6 +172,65 @@
   </tbody>
 </table>
 
-<h4>Japanese</h4>
-<a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRTJ22UiHpPaafBlY2vNxQr1ROjq1iFp8_3rlVPYFqf3Se316Vf4Ucw2fljzDA8PPVqyMuWqf-t70s5/pub">Refold unofficial Japanese Guide</a>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Refold - Japanese</a>
+<table>
+  <thead>
+    <tr>
+      <th colspan=7 align="center">Target Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Language</td>
+      <td>Phonology</td>
+      <td>Writing System</td>
+      <td>Grammar</td>
+      <td>Vocabulary</td>
+      <td align="left">Other Resources</td>
+    </tr>
+    <tr>
+      <!--  rowspan=3 -->
+      <td><img width="160" height="120" src="https://media.giphy.com/media/C6rDaiXF53dJe/giphy.gif"></td>
+      <td><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
+      <td align="left">
+        <a href="https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"><img alt="IPA" src="https://img.shields.io/badge/IPA-000000?logo=wikipedia&logoColor=white"></a>
+        <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio"><img alt="Vowel" src="https://img.shields.io/badge/IPAvowel-20C997?logo=velog&logoColor=white"></a>
+        <a href="https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio"><img alt="Consonant" src="https://img.shields.io/badge/IPAconsonant-F24C53?logo=consul&logoColor=white"></a>
+        <a href="https://en.wiktionary.org/wiki/Appendix:English_pronunciation"><img alt="EnglishPronounce" src="https://img.shields.io/badge/EnPronounce-DA552F?logo=producthunt&logoColor=white"></a>
+        <br>
+        <a href="https://youglish.com"><img alt="Youglish" src="https://img.shields.io/badge/Youglish-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://tophonetics.com"><img alt="2Phonetics" src="https://img.shields.io/badge/ToPhonetics-5F259F?logo=phonepe&logoColor=white"></a>
+        <br>
+        <a href="http://www.antimoon.com/how/pronunc.htm"><img alt="Antimoon" src="https://img.shields.io/badge/Antimoon-F5AE29?logo=quantconnect&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCDrMNFH6_ozPOApGf8PuLxw"><img alt="PhoneticFanatic" src="https://img.shields.io/badge/PhoneticFanatic-005A9C?logo=youtube&logoColor=white"></a>
+        <br>
+        <a href="https://www.youtube.com/playlist?list=PLB043E64B8BE05FB7"><img alt="RachelsEnglish" src="https://img.shields.io/badge/RachelsEn-F5AE29?logo=youtube&logoColor=white"></a>
+      </td>
+      <td align="left"></td>
+      <td align="left">
+        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"></a>
+        <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img alt="" src=""></a>
+        <br>
+        <a href="https://www.youtube.com/watch?v=SceDmiBEESI"><img alt="" src=""></a>
+        <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="" src=""></a>
+      </td>
+      <td align="left">
+        <a href="https://discord.com/channels/775877387426332682/829499093201977365/870285617987219557"><img alt="Frequency Lists" src="https://img.shields.io/badge/Vocabulary-5865F2?logo=discord&logoColor=white"></a>
+        <br>
+        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="" src="https://img.shields.io/badge/EN1KWords-EC6813?logo=vonage&logoColor=white"></a>
+      </td>
+      <td align="left"></td>
+    </tr>
+    <tr>
+      <td><img width="160" height="120" src="https://media.giphy.com/media/C6rDaiXF53dJe/giphy.gif"></td>
+      <td><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
+      <td align="left"></td>
+      <td align="left"></td>
+      <td align="left"></td>
+      <td align="left"></td>
+      <td align="left">
+        <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRTJ22UiHpPaafBlY2vNxQr1ROjq1iFp8_3rlVPYFqf3Se316Vf4Ucw2fljzDA8PPVqyMuWqf-t70s5/pub">Refold unofficial Japanese Guide</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
