@@ -81,21 +81,18 @@
               <a href="http://subs2srs.sourceforge.net"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-809CC9?logo=subversion&logoColor=black"><a/>
               <a href="https://handbrake.fr"><img alt="HandBrake" src="https://img.shields.io/badge/HandBrake-000000?logo=handshake_protocol&logoColor=white"></a>
               <a href="http://www.nikse.dk/subtitleedit"><img alt="SubTitleEdit" src="https://img.shields.io/badge/SubTitleEdit-606060?logo=stackedit&logoColor=white"></a>
-              <br>
-              <a href="https://animecards.site"><img alt="AnimeCards" src="https://img.shields.io/badge/AnimeCards-FF7143?logo=googlecardboard&logoColor=white"></a>
-              <br>
-              <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
-              <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
             </td>
         </tr>
         <tr>
           <td></td>
-          <td><b>Resource && Addons</b></td>
+          <td><b><a href="https://docs.google.com/document/d/1FQu-GM55HbZkcrHOfRQT2kmLvWEW_nM1sViLaAY-C7g/edit">Resource</a> && Addons</b></td>x
           <td>
-            <a href="https://docs.google.com/document/d/1FQu-GM55HbZkcrHOfRQT2kmLvWEW_nM1sViLaAY-C7g/edit">Refold Resource Collections</a>
             <a href="https://www.migaku.io"><img alt="Migaku" src="https://img.shields.io/badge/Migaku-D0072A?logo=themighty&logoColor=white"></a>
-            <a href="https://web.archive.org/web/20201220134610/https://massimmersionapproach.com/table-of-contents/anki/morphman/"><img alt="MorphMan" src="https://img.shields.io/badge/MorphMan-E60012?logo=yamahamotorcorporation&logoColor=white"></a>
-            <a href="https://web.archive.org/web/20210203165239/https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/intro">Low Key Anki</a>
+            <a href="https://animecards.site"><img alt="AnimeCards" src="https://img.shields.io/badge/AnimeCards-FF7143?logo=googlecardboard&logoColor=white"></a>
+            <br>
+            <a href="https://massimmersionapproach.com/table-of-contents/anki/morphman"><img alt="MorphMan" src="https://img.shields.io/badge/MorphMan-E60012?logo=yamahamotorcorporation&logoColor=white"></a>
+            <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
+            <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
           </td>
         </tr>
         <!--     Vedio and Audio     -->
