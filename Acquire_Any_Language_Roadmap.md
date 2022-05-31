@@ -6,6 +6,7 @@
   <img align="center" width="160" height="120" src="https://media.giphy.com/media/ZFzmYqvfobzfLytTrP/giphy.gif">
   <br>
   <a href="https://apps.ankiweb.net"><img alt="Anki" src="https://img.shields.io/badge/Ankiweb-246FDB?logo=maxplanckgesellschaft&logoColor=white"></a>
+  <a href="https://www.migaku.io"><img alt="Migaku" src="https://img.shields.io/badge/Migaku-D0072A?logo=themighty&logoColor=white"></a>
   <a href="http://subs2srs.sourceforge.net"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-809CC9?logo=subversion&logoColor=black"><a/>
   <a href="https://www.flixgrab.com"><img alt="flixgrab" src="https://img.shields.io/badge/FlixGrab-00B14F?logo=grab&logoColor=black"></a>
   <a href="https://gotranscript.com/subtitle-converter"><img alt="Subtitle Converter" src="https://img.shields.io/badge/SubTitleConvert-E5426E?logo=kashflow&logoColor=white"></a>
@@ -170,3 +171,7 @@
     </tr>
   </tbody>
 </table>
+
+<h4>Japanese</h4>
+<a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRTJ22UiHpPaafBlY2vNxQr1ROjq1iFp8_3rlVPYFqf3Se316Vf4Ucw2fljzDA8PPVqyMuWqf-t70s5/pub">Refold unofficial Japanese Guide</a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Refold - Japanese</a>
