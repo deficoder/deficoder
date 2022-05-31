@@ -67,9 +67,9 @@
             <a href="http://www.randomhacks.net/substudy"><img alt="randomhacks" src="https://img.shields.io/badge/SubStudy-FFA200?logo=audiomack&logoColor=black"></a>
             <a href="https://learnanylanguage.fandom.com/wiki/Subs2srs"><img alt="Subs2SRS" src="https://img.shields.io/badge/Subs2SRS-000000?logo=wikipedia&logoColor=white"></a>
             <br>
+            <a href="https://supermemo.com"><img alt="SuperMemo" src="https://img.shields.io/badge/SuperMemo-BA478F?logo=musicbrainz&logoColor=white"></a>
             <a href="http://www.sdkrashen.com"><img alt="SDKrashen" src="https://img.shields.io/badge/SDKrashen-179287?logo=gitkraken&logoColor=black"></a>
             <a href="https://mandarinexperiment.com"><img alt="Mandarin" src="https://img.shields.io/badge/Mandarin-35BF5C?logo=manjaro&logoColor=black"></a>
-            <a href="https://supermemo.com"><img alt="Supermemo" src="https://img.shields.io/badge/SuperMemo-BA478F?logo=musicbrainz&logoColor=white"></a>
             <br>
             <a href="http://how-to-learn-any-language.com"><img alt="HowTo" src="https://img.shields.io/badge/HowToLearn-4DBC15?logo=houzz&logoColor=white"></a>
             <a href="https://forum.language-learners.org"><img alt="Forum" src="https://img.shields.io/badge/Forum-21B573?logo=formstack&logoColor=white"></a>
@@ -87,6 +87,16 @@
               <a href="https://www.opensubtitles.org"><img alt="openSubTitles" src="https://img.shields.io/badge/openSubTitles-7EBC6F?logo=openstreetmap&logoColor=black"></a>
               <a href="https://github.com/emk/subtitles-rs"><img alt="EMK" src="https://img.shields.io/badge/SubTitlesRS-181717?logo=github&logoColor=white"></a>
             </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><b>Resource && Addons</b></td>
+          <td>
+            <a href="https://docs.google.com/document/d/1FQu-GM55HbZkcrHOfRQT2kmLvWEW_nM1sViLaAY-C7g/edit">Refold Resource Collections</a>
+            <a href="https://www.migaku.io"><img alt="Migaku" src="https://img.shields.io/badge/Migaku-D0072A?logo=themighty&logoColor=white"></a>
+            <a href="https://web.archive.org/web/20201220134610/https://massimmersionapproach.com/table-of-contents/anki/morphman/"><img alt="MorphMan" src="https://img.shields.io/badge/MorphMan-E60012?logo=yamahamotorcorporation&logoColor=white"></a>
+            <a href="https://web.archive.org/web/20210203165239/https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/intro">Low Key Anki</a>
+          </td>
         </tr>
         <!--     Vedio and Audio     -->
         <tr>
