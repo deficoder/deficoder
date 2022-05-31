@@ -28,9 +28,9 @@
 <table align="center">
     <thead>
         <tr>
-            <th>🛠️ My favorite tools</th>
+            <th></th>
             <th>Category</th>
-            <th>List</th>
+            <th>🛠️ My Favorite Tools</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -58,7 +58,7 @@
               <a href="https://readme-typing-svg.herokuapp.com"><img alt="readme-typing-svg" src="https://img.shields.io/badge/ReadmeTyping-9B66EE?logo=svg&logoColor=white"></a>
             </td>
         </tr>
-        <!--     Language Acquisition     -->
+        <!--  Language Acquisition     -->
         <tr>
           <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
           <td rowspan=2><a href="./Acquire_Any_Language_Roadmap.md"><b>Acquire Any Language</b></a></td>
@@ -100,10 +100,17 @@
         </tr>
         <!-- LifeStyle Design -->
         <tr>
-          <td rowspan=3><img width="160" height="120" src="https://media.giphy.com/media/BNhoNmJ4uuYiUJdhXB/giphy.gif"></td>
-          <td><b>Value of Time</b></td>
+          <td rowspan=4><img width="160" height="120" src="https://media.giphy.com/media/BNhoNmJ4uuYiUJdhXB/giphy.gif"></td>
+          <td><b>Time</b></td>
           <td align="left">
             <a href="https://jamesclear.com/value-of-time"><img alt="TimeValue" src="https://img.shields.io/badge/TimeValue-FDB515?logo=timescale&logoColor=white"></a>
+            <a href="https://www.rescuetime.com/"><img alt="RescueTime" src="https://img.shields.io/badge/RescueTime-161A3B?logo=rescuetime&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Money</b></td>
+          <td>
+            <a href="https://bench.co"><img alt="Bench" src="https://img.shields.io/badge/Bench-EA0016?logo=bosch&logoColor=white"></a>
           </td>
         </tr>
         <tr>
