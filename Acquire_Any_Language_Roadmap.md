@@ -175,12 +175,11 @@
 <table>
   <thead>
     <tr>
-      <th colspan=7 align="center">Target Languages</th>
+      <th colspan=6 align="center">Target Languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td></td>
       <td>Language</td>
       <td>Phonology</td>
       <td>Writing System</td>
@@ -190,7 +189,6 @@
     </tr>
     <tr>
       <!--  rowspan=3 -->
-      <td><img width="160" height="120" src="https://media.giphy.com/media/C6rDaiXF53dJe/giphy.gif"></td>
       <td><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
       <td align="left">
         <a href="https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"><img alt="IPA" src="https://img.shields.io/badge/IPA-000000?logo=wikipedia&logoColor=white"></a>
@@ -222,7 +220,6 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td><img width="160" height="120" src=""></td>
       <td><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
       <td align="left"></td>
       <td align="left"></td>
