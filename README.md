@@ -60,7 +60,7 @@
         </tr>
         <!--  Language Acquisition     -->
         <tr>
-          <td rowspan=2><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
+          <td rowspan=3><img width="160" height="120" src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif"></td>
           <td rowspan=2><a href="./Acquire_Any_Language_Roadmap.md"><b>Acquire Any Language</b></a></td>
           <td align="left">
             <a href="https://refold.la"><img alt="refold" src="https://img.shields.io/badge/Refold-2932E1?logo=roamresearch&logoColor=white"></a>
@@ -84,9 +84,8 @@
             </td>
         </tr>
         <tr>
-          <td></td>
           <td><b><a href="https://docs.google.com/document/d/1FQu-GM55HbZkcrHOfRQT2kmLvWEW_nM1sViLaAY-C7g/edit">Resource</a> && Addons</b></td>x
-          <td>
+          <td align="left">
             <a href="https://www.migaku.io"><img alt="Migaku" src="https://img.shields.io/badge/Migaku-D0072A?logo=themighty&logoColor=white"></a>
             <a href="https://animecards.site"><img alt="AnimeCards" src="https://img.shields.io/badge/AnimeCards-FF7143?logo=googlecardboard&logoColor=white"></a>
             <br>
