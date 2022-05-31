@@ -222,7 +222,7 @@
       <td align="left"></td>
     </tr>
     <tr>
-      <td><img width="160" height="120" src="https://media.giphy.com/media/C6rDaiXF53dJe/giphy.gif"></td>
+      <td><img width="160" height="120" src=""></td>
       <td><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
       <td align="left"></td>
       <td align="left"></td>
