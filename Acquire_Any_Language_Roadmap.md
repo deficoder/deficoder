@@ -445,21 +445,19 @@
   </tbody>
 </table>
 
-<p align="center">
-  <h4>Create learning materials</h4>
-  <br>
-  <img align="center" width="160" height="120" src="https://media.giphy.com/media/2iQoltHofbi0MrRoIu/giphy.gif">
-</p>
+<h4 align="center">Create learning materials</h4>
 
-<h5>Video Download</h5>
+<img align="center" width="160" height="120" src="https://media.giphy.com/media/2iQoltHofbi0MrRoIu/giphy.gif">
+
+- Video Download
 1. Netflix: Open `FlixGrab` and Paste Video URL
 2. Youtube: command line tool `youtube-dl`
 
-<h5>Audio Extract</h5>
+- Audio Extract
 1. Netflix: <a href="https://audio-extractor.net">extractor</a>
 2. Youtube: <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
 
-<h5>Subtitle Processing</h5>
+- Subtitle Processing
 
 ***Netflix Vedio***
 1. Open `Inspect` Netflix vedio page & reload
@@ -474,7 +472,7 @@
 youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
 ```
 
-<h5>Clips to SRS</h5>
+- Clips to SRS
 
 1. Open subs2srs choise target file 
 ```
