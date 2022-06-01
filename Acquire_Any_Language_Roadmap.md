@@ -221,7 +221,6 @@
       </td>
     </tr>
     <tr>
-      <td></td>
       <td>
         British Accent:
         <br>
