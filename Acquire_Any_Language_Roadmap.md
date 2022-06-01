@@ -175,65 +175,16 @@
 <table>
   <thead>
     <tr>
-      <th colspan=6 align="center">Target Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Language</td>
-      <td>Phonology</td>
-      <td>Writing System</td>
-      <td>Grammar</td>
-      <td>Vocabulary</td>
-      <td align="left">Other Resources</td>
-    </tr>
-    <tr>
-      <!--  rowspan=3 -->
-      <td><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
-      <td align="left">
-        
-      </td>
-      <td align="left"></td>
-      <td align="left">
-        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"></a>
-        <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img alt="" src=""></a>
-        <br>
-        <a href="https://www.youtube.com/watch?v=SceDmiBEESI"><img alt="" src=""></a>
-        <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="" src=""></a>
-      </td>
-      <td align="left">
-        <a href="https://discord.com/channels/775877387426332682/829499093201977365/870285617987219557"><img alt="Frequency Lists" src="https://img.shields.io/badge/Vocabulary-5865F2?logo=discord&logoColor=white"></a>
-        <br>
-        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="" src="https://img.shields.io/badge/EN1KWords-EC6813?logo=vonage&logoColor=white"></a>
-      </td>
-      <td align="left"></td>
-    </tr>
-    <tr>
-      <td><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
-      <td align="left"></td>
-      <td align="left"></td>
-      <td align="left"></td>
-      <td align="left"></td>
-      <td align="left">
-        <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vRTJ22UiHpPaafBlY2vNxQr1ROjq1iFp8_3rlVPYFqf3Se316Vf4Ucw2fljzDA8PPVqyMuWqf-t70s5/pub">Refold unofficial Japanese Guide</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan=4 align="center">Target Languages</th>
+      <th colspan=4 align="center"><h4>Target Languages</h4></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td></td>
-      <td colspan=3><b>English</b></td>
+      <td colspan=3><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Stage 1: Lay the Foundation</td>
+      <td rowspan=2>Stage 1</td>
       <td>A:Tools</td>
       <td>B:Blocks</td>
       <td>C:Comprehension</td>
@@ -308,22 +259,22 @@
       </td>
       <td>
         Grammar:
-        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition">CambridgeEnglish</a>
-        <a href="https://www.ef.com/wwen/english-resources/english-grammar">EnglishGrammar</a>
+        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"><img alt="CambridgeEnglish" src="https://img.shields.io/badge/CambridgeEn-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img src="https://img.shields.io/badge/EF-15C39A?logo=grammarly&logoColor=white"></a>
         <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="EasyEnglish" src="https://img.shields.io/badge/EasyEnglish-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=SceDmiBEESI"><img alt="James" src="https://img.shields.io/badge/James-FF0000?logo=youtube&logoColor=white"></a>
         <br><br><br>
         Vocabulary:
-        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg">EN1K Anki Deck</a>
+        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="EN1K Anki Deck" src="https://img.shields.io/badge/EN1KAnki-02A9FF?logo=anilist&logoColor=white"></a>
 <!--         <a href=""><img alt="" src=""></a> -->
         <a>
       </td>
     </tr>
     <tr>
-      <td>Stage 2: Build Comprehension</td>
-      <td>A:Overcoming the Curve</td>
-      <td>B:Increasing Difficulty</td>
-      <td>C:Mastering a Domain</td>
+      <td>Stage 2</td>
+      <td>A:</td>
+      <td>B:</td>
+      <td>C:</td>
     </tr>
     <tr>
       <td>Stage 3</td>
@@ -339,7 +290,31 @@
     </tr>
     <tr>
       <td></td>
-      <td colspan=3><b>Japanese</b></td>
+      <td colspan=3><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
+    </tr>
+    <tr>
+      <td>Stage 1</td>
+      <td>A:</td>
+      <td>B:</td>
+      <td>C:</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>A:</td>
+      <td>B:</td>
+      <td>C:</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>A:</td>
+      <td>B:</td>
+      <td>C:</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>A:</td>
+      <td>B:</td>
+      <td>C:</td>
     </tr>
   </tbody>
 </table>
