@@ -181,7 +181,7 @@
   <tbody>
     <tr>
       <td></td>
-      <td colspan=3><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
+      <td colspan=3 align="center"><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
     </tr>
     <tr>
       <td rowspan=2>Stage 1</td>
@@ -301,7 +301,7 @@
     </tr>
     <tr>
       <td></td>
-      <td colspan=3><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
+      <td colspan=3 align="center"><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
     </tr>
     <tr>
       <td rowspan=2>Stage 1</td>
@@ -429,9 +429,30 @@
     </tr>
     <tr>
       <td>Stage 2</td>
-      <td>A:</td>
+      <td>A:Curve</td>
       <td>B:</td>
       <td>C:</td>
+    </tr>
+    <tr>
+      <td>
+        Video:
+        <a href="https://animelon.com"><img src="https://img.shields.io/badge/AnimeLon-2E51A2?logo=myanimelist&logoColor=white"></a>
+        <a href="https://www.netflix.com"><img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white"></href>
+        <a href="https://nyaa.si"><img src="https://img.shields.io/badge/nyaa.si-3B5EE9?logo=openfaas&logoColor=white"></href>
+        <a href="https://abema.tv"><img src="https://img.shields.io/badge/abema.tv-F9DC3E?logo=babel&logoColor=white"></href>
+        <a href="https://www.youtube.com/channel/UC59ZURfw529EQEE1gVUMSlw"><img src="https://img.shields.io/badge/Manga-FF0000?logo=youtube&logoColor=white"></href>
+        <br>
+        <a href="https://www.captionpop.com/?nl=ja&tl=ja"><img src="https://img.shields.io/badge/CaptionPOP-48B9C7?logo=popos&logoColor=white"></href>
+        <br>
+        <a href="https://www.youtube.com/channel/UC4dhumTsAaMVLj94paCBeww"><img src="https://img.shields.io/badge/MinamiChigasaki-FF0000?logo=youtube&logoColor=white"></href>
+<!--         <a href=""><img src=""></href> -->
+      </td>
+      <td>
+<!--         <a href=""><img src=""></href> -->
+      </td>
+      <td>
+<!--         <a href=""><img src=""></href> -->
+      </td>
     </tr>
     <tr>
       <td>Stage 3</td>
