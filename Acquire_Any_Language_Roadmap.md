@@ -447,7 +447,9 @@
 
 <h4 align="center">Create learning materials</h4>
 
-<img align="center" width="160" height="120" src="https://media.giphy.com/media/2iQoltHofbi0MrRoIu/giphy.gif">
+<p align="center">
+  <img align="center" width="160" height="120" src="https://media.giphy.com/media/2iQoltHofbi0MrRoIu/giphy.gif">
+</p>
 
 - Video Download
 1. Netflix: Open `FlixGrab` and Paste Video URL
