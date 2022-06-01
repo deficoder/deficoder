@@ -101,80 +101,6 @@
 <table>
   <thead>
     <tr>
-      <th colspan=5 align="center">Create learning materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Video Download</td>
-      <td>Audio Extract</td>
-      <td>Subtitle Processing</td>
-      <td>Clips to SRS</td>
-      <td>New Words</td>
-    </tr>
-    <tr>
-      <!-- Video Download -->
-      <td>
-        1. Netflix: Open FlixGrab and Paste Video URL
-        <br><br>
-        2. Youtube: command line tool `youtube-dl`
-      </td>
-      <!-- Audio Extract -->
-      <td>
-        1. Netflix: <a href="https://audio-extractor.net">extractor</a>
-        <br><br>
-        2. Youtube: <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
-      </td>
-      <!-- Subtitle Processing -->
-      <td>
-        1. <a href="#" alt="url like `?o=1&...`">Download .ttml</a>
-           <br>
-           <a href="https://gotranscript.com/subtitle-converter">Convert To .srt</a>
-           <br>
-           <a href="https://easypronunciation.com">Phonetic Symbol</a>
-        <br>
-        2. <a href="#" alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
-      </td>
-      <!-- Clips to SRS -->
-      <td>
-        1. Open subs2srs 
-        <br>
-        <a href="#" alt="target.srt">Subs1</a>
-         -> 
-        <a href="#" alt="save path">Output</a>
-        <br>
-         -> 
-        <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
-         -> 
-        <a href="#" alt="target clips video">Video</a>
-        <br>
-         -> 
-        <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
-        <br>
-         -> 
-        <a href="#" alt="Name of Anki Deck">Naming output file</a>
-        <br>
-        2. <a href="Check matches subtitles">Preview</a>
-        <br>
-        3. <a href="#" alt="Wait for the clip to finish">Go!</a>
-        <br>
-        4. <a href="#" alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
-        <br>
-        5. <a href="#" alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
-        <br>
-        6. Sync Anki Deck
-      </td>
-      <!-- New Words -->
-      <td>
-        1. Anki Add Card
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
       <th colspan=4 align="center"><h4>Target Languages</h4></th>
     </tr>
   </thead>
@@ -419,14 +345,6 @@
         <a href="https://open.spotify.com/show/0lBMf4PEpcG7W44lG6ORKR"><img src="https://img.shields.io/badge/SimpleJP-1DB954?logo=spotify&logoColor=white"></a>
         <a href="https://open.spotify.com/show/6dH6a09LsXj2lc7h7u3my9?si=1YZqU_p1Ss6OyZ1hdZmTxQ"><img src="https://img.shields.io/badge/BasicJP-1DB954?logo=spotify&logoColor=white"></a>
       </td>
-    </tr>
-    <tr>
-      <td>
-        Passive listening archives:
-        <br>
-        <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
-        <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
-      </td>
       <td rowspan=3>
         Writing System:
         <br>
@@ -458,6 +376,14 @@
         <a href="https://ankiweb.net/shared/info/266084933"><img src="https://img.shields.io/badge/Wanikani9K-02A9FF?logo=anilist&logoColor=white"></a>
         <a href="https://tatsumoto-ren.github.io/blog/basic-vocabulary.html"><img src="https://img.shields.io/badge/StarterPack10k-181717?logo=github&logoColor=white"></a>
         <a href="https://mega.nz/file/nkczVADA#pAl0Rx9-07-En60hF5XChEqYYt8eW7nO7T_PJQP7lyU"><img src="https://img.shields.io/badge/Core2.3k-D9272E?logo=MEGA&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Passive listening archives:
+        <br>
+        <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
+        <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -520,6 +446,81 @@
       <td>A:</td>
       <td>B:</td>
       <td>C:</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=5 align="center">Create learning materials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Video Download</td>
+      <td>Audio Extract</td>
+      <td>Subtitle Processing</td>
+      <td>Clips to SRS</td>
+      <td>New Words</td>
+    </tr>
+    <tr>
+      <!-- Video Download -->
+      <td>
+        1. Netflix: Open FlixGrab and Paste Video URL
+        <br><br>
+        2. Youtube: command line tool `youtube-dl`
+      </td>
+      <!-- Audio Extract -->
+      <td>
+        1. Netflix: <a href="https://audio-extractor.net">extractor</a>
+        <br><br>
+        2. Youtube: <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
+      </td>
+      <!-- Subtitle Processing -->
+      <td>
+        1. <a href="#" alt="url like `?o=1&...`">Download .ttml</a>
+           <br>
+           <a href="https://gotranscript.com/subtitle-converter">Convert To .srt</a>
+           <br>
+           <a href="https://easypronunciation.com">Phonetic Symbol</a>
+        <br>
+        2. <a href="#" alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
+      </td>
+      <!-- Clips to SRS -->
+      <td>
+        1. Open subs2srs 
+        <br>
+        <a href="#" alt="target.srt">Subs1</a>
+         -> 
+        <a href="#" alt="save path">Output</a>
+        <br>
+         -> 
+        <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
+         -> 
+        <a href="#" alt="target clips video">Video</a>
+        <br>
+         -> 
+        <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
+        <br>
+         -> 
+        <a href="#" alt="Name of Anki Deck">Naming output file</a>
+        <br>
+        2. <a href="Check matches subtitles">Preview</a>
+        <br>
+        3. <a href="#" alt="Wait for the clip to finish">Go!</a>
+        <br>
+        4. <a href="#" alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
+        <br>
+        5. <a href="#" alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
+        <br>
+        6. Sync Anki Deck
+      </td>
+      <!-- New Words -->
+      <td>
+        1. Anki Add Card
+      </td>
     </tr>
   </tbody>
 </table>
