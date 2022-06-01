@@ -190,7 +190,7 @@
       <td>C:Comprehension</td>
     </tr>
     <tr>
-      <td>
+      <td rowspan=4>
         Vedio:
         <br>
         <a href="https://www.engvid.com/english-lessons"><img alt="EngVid" src="https://img.shields.io/badge/EngVid-000000?logo=e&logoColor=white"></a>
@@ -205,11 +205,6 @@
         <a href="https://www.youtube.com/channel/UC1hkLZGmxdxwfhz72vKdtdA/videos"><img alt="Smile" src="https://img.shields.io/badge/Smile-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/c/TeacherVanessa/videos"><img alt="Vanessa" src="https://img.shields.io/badge/Vanessa-FF0000?logo=youtube&logoColor=white"></a>
       </td>
-    </tr>
-    <tr>
-      <td>
-      Audio:
-      </td>
       <td>
         IPA:
         <br>
@@ -217,12 +212,27 @@
         <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio"><img alt="Vowel" src="https://img.shields.io/badge/Vowel-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio"><img alt="Consonant" src="https://img.shields.io/badge/Consonant-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wiktionary.org/wiki/Appendix:English_pronunciation"><img alt="EnglishPronounce" src="https://img.shields.io/badge/Pronounce-000000?logo=wikipedia&logoColor=white"></a>
+      </td>
+      <td rowspan=4>
+        Grammar:
+        <br>
+        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"><img alt="CambridgeEnglish" src="https://img.shields.io/badge/CambridgeEn-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img src="https://img.shields.io/badge/EF-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="EasyEnglish" src="https://img.shields.io/badge/EasyEnglish-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=SceDmiBEESI"><img alt="James" src="https://img.shields.io/badge/James-FF0000?logo=youtube&logoColor=white"></a>
         <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Tools:
         <br>
         <a href="https://youglish.com"><img alt="Youglish" src="https://img.shields.io/badge/Youglish-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://tophonetics.com"><img alt="2Phonetics" src="https://img.shields.io/badge/ToPhonetics-5F259F?logo=phonepe&logoColor=white"></a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         American Accent:
         <br>
         <a href="http://www.antimoon.com/how/pronunc.htm"><img alt="Antimoon" src="https://img.shields.io/badge/Antimoon-F5AE29?logo=quantconnect&logoColor=white"></a>
@@ -234,7 +244,10 @@
         <a href="https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg"><img alt="Sounds American" src="https://img.shields.io/badge/American-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UClPyOwXLnSMejFdLvJXjA5A/videos"><img alt="Hadar" src="https://img.shields.io/badge/Hadar-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.mimicmethod.com/master-class/english"><img alt="MimicMethod" src="https://img.shields.io/badge/Mimic-00E7C3?logo=immer&logoColor=black"></a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Rhythm:
         <br>
         <a href="https://www.youtube.com/watch?v=nkQ7lwEWeGA"><img alt="Accent" src="https://img.shields.io/badge/AccentReduction-FF0000?logo=youtube&logoColor=white"></a>
@@ -243,23 +256,38 @@
         <a href="https://www.youtube.com/watch?v=nqWEd8Q4sic"><img alt="Rhythm2" src="https://img.shields.io/badge/RhythmEn2-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/playlist?list=PL6vMAFPIKMUi1DJkw1K2S6Op8x0frrgY9"><img alt="Stress" src="https://img.shields.io/badge/RhythmStress-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://tfcs.baruch.cuny.edu/rhythm-intonation-more"><img alt="RhythmMore" src="https://img.shields.io/badge/RhythmMore-ED2224?logo=equinixmetal&logoColor=white"></a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Intonation:
         <br>
         <a href="https://www.youtube.com/playlist?list=PLytLOCUcYQj_BKDX_tfDu2eI83SJuu0Me"><img alt="Intro" src="https://img.shields.io/badge/Pronunce-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=FStyKn4V8cE"><img alt="INTONATION" src="https://img.shields.io/badge/INTONATION-FF0000?logo=youtube&logoColor=white"></a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Books:
         <br>
         <a href="https://rachelsenglish.gumroad.com/l/pronunciation"><img alt="Gumroad" src="https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1DV1WDdbEA0hSDnauK3oF3Uf-2OUaDJ2_/view"><img alt="Accent" src="https://img.shields.io/badge/Training-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1k6TjcnF8ocTETgLpnaFFAaagPoV0cQvX/view"><img alt="Mastering" src="https://img.shields.io/badge/Mastering-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1_8K142y1vULilttT5InD1Fh_eg6uU9Mb/view"><img alt="Prictice" src="https://img.shields.io/badge/Prictice-4285F4?logo=googledrive&logoColor=white"></a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Online Reader:
         <br>
         <a href="https://apihost.ru/voice-en-us">Text To Speech Reader</a>
-        <br><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan=4>
+        Audio:
+      </td>
+      <td>
         British Accent:
         <br>
         <a href="https://www.youtube.com/watch?v=HRNsqoFMkes"><img alt="ModernRPAccent" src="https://img.shields.io/badge/ModernRPAccent-FF0000?logo=youtube&logoColor=white"></a>
@@ -269,18 +297,10 @@
         <a href="https://www.youtube.com/playlist?list=PLb0zRozbslbJ02xEZjFTxkRtfrUdRey3X"><img alt="BritishIPA" src="https://img.shields.io/badge/BritishIPA-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.bbc.co.uk/learningenglish/english/features/pronunciation"><img alt="PronunceUK" src="https://img.shields.io/badge/Pronunce.UK-000000?logo=BBC&logoColor=white"></a>
       </td>
-      <td>
-        Grammar:
-        <br>
-        <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"><img alt="CambridgeEnglish" src="https://img.shields.io/badge/CambridgeEn-15C39A?logo=grammarly&logoColor=white"></a>
-        <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img src="https://img.shields.io/badge/EF-15C39A?logo=grammarly&logoColor=white"></a>
-        <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="EasyEnglish" src="https://img.shields.io/badge/EasyEnglish-FF0000?logo=youtube&logoColor=white"></a>
-        <a href="https://www.youtube.com/watch?v=SceDmiBEESI"><img alt="James" src="https://img.shields.io/badge/James-FF0000?logo=youtube&logoColor=white"></a>
-        <br><br><br>
+      <td rowspan=4>
         Vocabulary:
         <br>
         <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="EN1K Anki Deck" src="https://img.shields.io/badge/EN1KAnki-02A9FF?logo=anilist&logoColor=white"></a>
-<!--         <a href=""><img alt="" src=""></a> -->
         <a>
       </td>
     </tr>
