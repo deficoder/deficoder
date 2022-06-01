@@ -284,7 +284,6 @@
         <a href="https://drive.google.com/file/d/1k6TjcnF8ocTETgLpnaFFAaagPoV0cQvX/view"><img alt="Mastering" src="https://img.shields.io/badge/Mastering-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1_8K142y1vULilttT5InD1Fh_eg6uU9Mb/view"><img alt="Prictice" src="https://img.shields.io/badge/Prictice-4285F4?logo=googledrive&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>
@@ -292,7 +291,6 @@
         <br>
         <a href="https://apihost.ru/voice-en-us">Text To Speech Reader</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td></td>
@@ -306,7 +304,6 @@
         <a href="https://www.youtube.com/playlist?list=PLb0zRozbslbJ02xEZjFTxkRtfrUdRey3X"><img alt="BritishIPA" src="https://img.shields.io/badge/BritishIPA-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.bbc.co.uk/learningenglish/english/features/pronunciation"><img alt="PronunceUK" src="https://img.shields.io/badge/Pronunce.UK-000000?logo=BBC&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Stage 2</td>
