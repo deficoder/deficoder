@@ -113,11 +113,11 @@
       <td rowspan=9>Stage 1</td>
       <td align="center">A:Tools and Habits</td>
       <td align="center">B:Building Blocks</td>
-      <td align="center">C:Jumpstart Comprehension</td>
+      <td align="center">C:Comprehension</td>
     </tr>
     <tr>
       <td rowspan=4>
-        <b align="center">Vedio</b>
+        <b>Vedio</b>
         <br><br>
         <a href="https://www.engvid.com/english-lessons"><img alt="EngVid" src="https://img.shields.io/badge/EngVid-000000?logo=e&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw"><img alt="James" src="https://img.shields.io/badge/James-FF0000?logo=youtube&logoColor=white"></a>
@@ -134,17 +134,16 @@
         <a href="https://www.youtube.com/c/TeacherVanessa/videos"><img alt="Vanessa" src="https://img.shields.io/badge/Vanessa-FF0000?logo=youtube&logoColor=white"></a>
       </td>
       <td>
-        <b align="center">IPA</b>
-        <br>
-        <br>
+        <b>IPA</b>
+        <br><br>
         <a href="https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"><img alt="IPA" src="https://img.shields.io/badge/IPA-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio"><img alt="Vowel" src="https://img.shields.io/badge/Vowel-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio"><img alt="Consonant" src="https://img.shields.io/badge/Consonant-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wiktionary.org/wiki/Appendix:English_pronunciation"><img alt="EnglishPronounce" src="https://img.shields.io/badge/Pronounce-000000?logo=wikipedia&logoColor=white"></a>
       </td>
       <td rowspan=4>
-        Grammar:
-        <br>
+        <b>Grammar</b>
+        <br><br>
         <a href="https://www.cambridge.org/gb/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/basic-grammar-use-4th-edition"><img alt="CambridgeEnglish" src="https://img.shields.io/badge/CambridgeEn-15C39A?logo=grammarly&logoColor=white"></a>
         <a href="https://www.ef.com/wwen/english-resources/english-grammar"><img src="https://img.shields.io/badge/EF-15C39A?logo=grammarly&logoColor=white"></a>
         <a href="https://www.youtube.com/playlist?list=PLA5UIoabheFM281dIr4ojw9xOVoo9dOtw"><img alt="EasyEnglish" src="https://img.shields.io/badge/EasyEnglish-FF0000?logo=youtube&logoColor=white"></a>
@@ -153,16 +152,16 @@
     </tr>
     <tr>
       <td>
-        Tools:
-        <br>
+        <b>Tools</b>
+        <br><br>
         <a href="https://youglish.com"><img alt="Youglish" src="https://img.shields.io/badge/Youglish-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://tophonetics.com"><img alt="2Phonetics" src="https://img.shields.io/badge/ToPhonetics-5F259F?logo=phonepe&logoColor=white"></a>
       </td>
     </tr>
     <tr>
       <td>
-        American Accent:
-        <br>
+        <b>American Accent<b>
+        <br><br>
         <a href="http://www.antimoon.com/how/pronunc.htm"><img alt="Antimoon" src="https://img.shields.io/badge/Antimoon-F5AE29?logo=quantconnect&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCDrMNFH6_ozPOApGf8PuLxw"><img alt="PhoneticFanatic" src="https://img.shields.io/badge/PhoneticFanatic-005A9C?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/playlist?list=PLB043E64B8BE05FB7"><img alt="RachelsEnglish" src="https://img.shields.io/badge/Rachel-FF0000?logo=youtube&logoColor=white"></a>
@@ -176,8 +175,8 @@
     </tr>
     <tr>
       <td>
-        Rhythm:
-        <br>
+        <b>Rhythm</b>
+        <br><br>
         <a href="https://www.youtube.com/watch?v=nkQ7lwEWeGA"><img alt="Accent" src="https://img.shields.io/badge/AccentReduction-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=cthIt6lQEOM"><img alt="WhyRhythm" src="https://img.shields.io/badge/WhyRhythm-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=N3glLccSYXc"><img alt="Rhythm1" src="https://img.shields.io/badge/RhythmEn1-FF0000?logo=youtube&logoColor=white"></a>
@@ -189,25 +188,25 @@
     </tr>
     <tr>
       <td rowspan=4>
-        Audio:
+        <b>Audio</b>
       </td>
       <td>
-        Intonation:
-        <br>
+        <b>Intonation</b>
+        <br><br>
         <a href="https://www.youtube.com/playlist?list=PLytLOCUcYQj_BKDX_tfDu2eI83SJuu0Me"><img alt="Intro" src="https://img.shields.io/badge/Pronunce-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=FStyKn4V8cE"><img alt="INTONATION" src="https://img.shields.io/badge/INTONATION-FF0000?logo=youtube&logoColor=white"></a>
       </td>
       <td rowspan=4>
-        Vocabulary:
-        <br>
+        <b>Vocabulary</b>
+        <br><br>
         <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="EN1K Anki Deck" src="https://img.shields.io/badge/EN1KAnki-02A9FF?logo=anilist&logoColor=white"></a>
         <a>
       </td>
     </tr>
     <tr>
       <td>
-        Books:
-        <br>
+        <b>Books</b>
+        <br><br>
         <a href="https://rachelsenglish.gumroad.com/l/pronunciation"><img alt="Gumroad" src="https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1DV1WDdbEA0hSDnauK3oF3Uf-2OUaDJ2_/view"><img alt="Accent" src="https://img.shields.io/badge/Training-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1k6TjcnF8ocTETgLpnaFFAaagPoV0cQvX/view"><img alt="Mastering" src="https://img.shields.io/badge/Mastering-4285F4?logo=googledrive&logoColor=white"></a>
@@ -216,15 +215,15 @@
     </tr>
     <tr>
       <td>
-        Online Reader:
-        <br>
+        <b>Online Reader</b>
+        <br><br>
         <a href="https://apihost.ru/voice-en-us">Text To Speech Reader</a>
       </td>
     </tr>
     <tr>
       <td>
-        British Accent:
-        <br>
+        <b>British Accent</b>
+        <br><br>
         <a href="https://www.youtube.com/watch?v=HRNsqoFMkes"><img alt="ModernRPAccent" src="https://img.shields.io/badge/ModernRPAccent-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCNfm92h83W2i2ijc5Xwp_IA/featured"><img alt="Emma" src="https://img.shields.io/badge/Emma-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCBHtnQGUChkwG1eyWL5EA9g"><img alt="ETJ" src="https://img.shields.io/badge/ETJ-FF0000?logo=youtube&logoColor=white"></a>
@@ -260,26 +259,26 @@
       <td rowspan=7>Stage 1</td>
       <td align="center">A:Tools and Habits</td>
       <td align="center">B:Building Blocks</td>
-      <td align="center">C:Jumpstart Comprehension</td>
+      <td align="center">C:Comprehension</td>
     </tr>
     <tr>
       <td>
-        Content By Level:
-        <br>
+        <b>Content By Level</b>
+        <br><br>
         <a href="https://koohi.cafe"><img src="https://img.shields.io/badge/Koohi-2E51A2?logo=myanimelist&logoColor=white"></a>
         <a href="https://jpdb.io"><img src="https://img.shields.io/badge/JPDB-2E51A2?logo=myanimelist&logoColor=white"></a>
         <a href="https://learnjapaneseanime.com/anime-recommendations"><img src="https://img.shields.io/badge/JPAnime-2E51A2?logo=myanimelist&logoColor=white"></a>
         <a href="https://sentencesearch.neocities.org"><img src="https://img.shields.io/badge/Neocities-FF160B?logo=newjapanprowrestling&logoColor=white"></a>
       </td>
       <td rowspan=3>
-        Phonology:
-        <br>
+        <b>Phonology</b>
+        <br><br>
         <a href="https://www.tofugu.com/japanese/japanese-pronunciation"><img src="https://img.shields.io/badge/Tofugu-2478CC?logo=contentful&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=ZhVlq7yDQho"><img src="https://img.shields.io/badge/JapanPod101-FF0000?logo=youtube&logoColor=white"></a>
       </td>
       <td rowspan=3>
-        Grammar:
-        <br>
+        <b>Grammar</b>
+        <br><br>
         <a href="http://www.guidetojapanese.org/learn/grammar"><img src="https://img.shields.io/badge/jpGuide-15C39A?logo=grammarly&logoColor=white"></a>
         <a href="https://www.imabi.net"><img src="https://img.shields.io/badge/imabi-15C39A?logo=grammarly&logoColor=white"></a>
         <a href="https://pomax.github.io/nrGrammar"><img src="https://img.shields.io/badge/Pomax-15C39A?logo=grammarly&logoColor=white"></a>
@@ -305,8 +304,8 @@
     </tr>
     <tr>
       <td>
-        Video:
-        <br>
+        <b>Video</b>
+        <br><br>
         <a href="https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ"><img src="https://img.shields.io/badge/Onomappu-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCqMY-cp1He6IAi1cIz-gX1g"><img src="https://img.shields.io/badge/Sayuri-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCIciBLpZ6BP2XNYTFXb6eRQ/featured"><img src="https://img.shields.io/badge/Asami-FF0000?logo=youtube&logoColor=white"></a>
@@ -334,7 +333,7 @@
     </tr>
     <tr>
       <td>
-        Audio:
+        <b>Audio</b>
         <br>
         <a href="https://japanesewithnoriko.com"><img src="https://img.shields.io/badge/Noriko-00FF00?logo=norco&logoColor=white"></a>
         <a href="https://open.spotify.com/show/4W4jYoKRmjlURKO1fIfcOK"><img src="https://img.shields.io/badge/Nihongo-1DB954?logo=spotify&logoColor=white"></a>
@@ -348,14 +347,14 @@
     </tr>
     <tr>
       <td>
-        Passive listening archives:
-        <br>
+        <b>Passive listening</b>
+        <br><br>
         <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
         <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
       </td>
       <td rowspan=3>
-        Writing System:
-        <br>
+        <b>Writing System</b>
+        <br><br>
         <a href="https://www.tofugu.com/japanese/learn-hiragana"><img src="https://img.shields.io/badge/Hiragana-2478CC?logo=contentful&logoColor=white"></a>
         <a href="https://www.tofugu.com/japanese/learn-katakana"><img src="https://img.shields.io/badge/Katakana-2478CC?logo=contentful&logoColor=white"></a>
         <a href="https://store.steampowered.com/app/438270/Learn_Japanese_To_Survive_Hiragana_Battle"><img src="https://img.shields.io/badge/HiraganaBattle-1A9FFF?logo=steamdeck&logoColor=white"></a>
@@ -370,8 +369,8 @@
         <a href="https://www.youtube.com/watch?v=s6DKRgtVLGA"><img src="https://img.shields.io/badge/JapanPodKata-FF0000?logo=youtube&logoColor=white"></a>
       </td>
       <td rowspan=3>
-        Vocabulary:
-        <br>
+        <b>Vocabulary</b>
+        <br><br>
         <a href="https://github.com/chriskempson/japanese-subtitles-word-frequency-list/blob/master/word_freq_report.txt"><img src="https://img.shields.io/badge/WordsFreq-181717?logo=github&logoColor=white"></a>
         <a href="https://docs.google.com/document/d/1IUWkvBxhoazBSTyRbdyRVk7hfKE51yorE86DCRNQVuw/edit"><img src="https://img.shields.io/badge/OhTalkWho-34A853?logo=googlesheets&logoColor=white"></a>
         <a href="https://drive.google.com/drive/folders/1g1drkFzokc8KNpsPHoRmDJ4OtMTWFuXi"><img src="https://img.shields.io/badge/Moe's%20List-34A853?logo=googlesheets&logoColor=white"></a>
@@ -388,8 +387,8 @@
     </tr>
     <tr>
       <td>
-        JP Subtitle Repositories:
-        <br>
+        <b>JP Subtitle Repo</b>
+        <br><br>
         <a href="https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F"><img src="https://img.shields.io/badge/Kitsunekko-FD755C?logo=kitsu&logoColor=white"></a>
         <a href="https://itazuraneko.neocities.org/library/sub.html"><img src="https://img.shields.io/badge/Itazuraneko-4EE3C2?logo=instatus&logoColor=white"></a>
         <a href="https://github.com/Matchoo95/JP-Subtitles"><img src="https://img.shields.io/badge/JPSubtitles-181717?logo=github&logoColor=white"></a>
@@ -402,8 +401,8 @@
     </tr>
     <tr>
       <td>
-        Resource Repositories:
-        <br>
+        <b>Resource Repos</b>
+        <br><br>
         <a href="https://itazuraneko.neocities.org/library/librarymain.html"><img src="https://img.shields.io/badge/ItazuraNeko-57A143?logo=neovim&logoColor=white"></a>
         <a href="https://learnjapanese.moe/resources"><img src="https://img.shields.io/badge/Moe-ED1C40?logo=meetup&logoColor=white"></a>
       </td>
@@ -416,7 +415,8 @@
     </tr>
     <tr>
       <td>
-        Video:
+        <b>Video</b>
+        <br><br>
         <a href="https://animelon.com"><img src="https://img.shields.io/badge/AnimeLon-2E51A2?logo=myanimelist&logoColor=white"></a>
         <a href="https://www.netflix.com"><img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white"></href>
         <a href="https://nyaa.si"><img src="https://img.shields.io/badge/nyaa.si-3B5EE9?logo=openfaas&logoColor=white"></href>
@@ -445,77 +445,49 @@
   </tbody>
 </table>
 
+<h4 align="center">Create learning materials</h4>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan=5 align="center">Create learning materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Video Download</td>
-      <td>Audio Extract</td>
-      <td>Subtitle Processing</td>
-      <td>Clips to SRS</td>
-      <td>New Words</td>
-    </tr>
-    <tr>
-      <!-- Video Download -->
-      <td>
-        1. Netflix: Open FlixGrab and Paste Video URL
-        <br><br>
-        2. Youtube: command line tool `youtube-dl`
-      </td>
-      <!-- Audio Extract -->
-      <td>
-        1. Netflix: <a href="https://audio-extractor.net">extractor</a>
-        <br><br>
-        2. Youtube: <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
-      </td>
-      <!-- Subtitle Processing -->
-      <td>
-        1. <a href="#" alt="url like `?o=1&...`">Download .ttml</a>
-           <br>
-           <a href="https://gotranscript.com/subtitle-converter">Convert To .srt</a>
-           <br>
-           <a href="https://easypronunciation.com">Phonetic Symbol</a>
-        <br>
-        2. <a href="#" alt="youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames">youtube-dl command</a>
-      </td>
-      <!-- Clips to SRS -->
-      <td>
-        1. Open subs2srs 
-        <br>
-        <a href="#" alt="target.srt">Subs1</a>
-         -> 
-        <a href="#" alt="save path">Output</a>
-        <br>
-         -> 
-        <a href="#" alt="native.srt or phonetic.srt">Subs2</a>
-         -> 
-        <a href="#" alt="target clips video">Video</a>
-        <br>
-         -> 
-        <a href="#" alt="Generate audio/video/snapshots clips">Check Box</a>
-        <br>
-         -> 
-        <a href="#" alt="Name of Anki Deck">Naming output file</a>
-        <br>
-        2. <a href="Check matches subtitles">Preview</a>
-        <br>
-        3. <a href="#" alt="Wait for the clip to finish">Go!</a>
-        <br>
-        4. <a href="#" alt="Tags,sequence marker,Audio,Snapshot,Expression">Anki Import output.tsv</a>
-        <br>
-        5. <a href="#" alt="cp output.media/* %APPDATA%/anki2/User 1/collection.media">Copy Media Files</a>
-        <br>
-        6. Sync Anki Deck
-      </td>
-      <!-- New Words -->
-      <td>
-        1. Anki Add Card
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h5>Video Download</h5>
+1. Netflix: Open `FlixGrab` and Paste Video URL
+2. Youtube: command line tool `youtube-dl`
+
+<h5>Audio Extract</h5>
+1. Netflix: <a href="https://audio-extractor.net">extractor</a>
+2. Youtube: <a href="https://yt-dl.org"><img alt="yt-dl" src="https://img.shields.io/badge/YTDL-FF0000?logo=youtube&logoColor=white"></a>
+
+<h5>Subtitle Processing</h5>
+
+***Netflix Vedio***
+1. Open `Inspect` Netflix vedio page & reload
+2. Check `Network` tab
+3. Find url start with `?o=1&...` copy this url
+4. Paste copied url download `.ttml` subtitle file
+5. Convert subtitle <a href="https://gotranscript.com/subtitle-converter">.srt</a>
+6. Transe Subs with <a href="https://easypronunciation.com">Phonetic Symbol</a>
+
+***Youtube Vedio***
+```
+youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
+```
+
+<h5>Clips to SRS</td>
+1. Open subs2srs choise target file 
+```
+Subs1     -> target.srt
+Output    -> save path
+Subs2     -> native.srt or phonetic.srt
+Video     -> target clips video
+Check Box -> Generate audio/video/snapshots clips
+Naming    -> Name of Anki Deck
+```
+2. Preview: Check matches subtitles
+3. Click `Go!` Wait for the clip to finish
+4. Anki Import output.tsv
+```
+Cards Sequence: Tags,sequence marker,Audio,Snapshot,Expression
+```
+5. Copy Media Files
+```
+cp output.media/* %APPDATA%/anki2/User 1/collection.media
+```
+6. Sync Anki Deck
