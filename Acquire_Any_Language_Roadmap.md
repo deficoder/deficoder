@@ -268,7 +268,12 @@
         <a href="https://www.youtube.com/playlist?list=PLytLOCUcYQj_BKDX_tfDu2eI83SJuu0Me"><img alt="Intro" src="https://img.shields.io/badge/Pronunce-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=FStyKn4V8cE"><img alt="INTONATION" src="https://img.shields.io/badge/INTONATION-FF0000?logo=youtube&logoColor=white"></a>
       </td>
-      <td></td>
+      <td rowspan=4>
+        Vocabulary:
+        <br>
+        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="EN1K Anki Deck" src="https://img.shields.io/badge/EN1KAnki-02A9FF?logo=anilist&logoColor=white"></a>
+        <a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -291,7 +296,6 @@
     </tr>
     <tr>
       <td></td>
-      <td></td>
       <td>
         British Accent:
         <br>
@@ -302,12 +306,7 @@
         <a href="https://www.youtube.com/playlist?list=PLb0zRozbslbJ02xEZjFTxkRtfrUdRey3X"><img alt="BritishIPA" src="https://img.shields.io/badge/BritishIPA-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.bbc.co.uk/learningenglish/english/features/pronunciation"><img alt="PronunceUK" src="https://img.shields.io/badge/Pronunce.UK-000000?logo=BBC&logoColor=white"></a>
       </td>
-      <td rowspan=4>
-        Vocabulary:
-        <br>
-        <a href="https://nixo-etc.s3.sa-east-1.amazonaws.com/EN1K%2BCommunity.apkg"><img alt="EN1K Anki Deck" src="https://img.shields.io/badge/EN1KAnki-02A9FF?logo=anilist&logoColor=white"></a>
-        <a>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Stage 2</td>
