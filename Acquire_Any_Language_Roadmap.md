@@ -111,14 +111,14 @@
     </tr>
     <tr>
       <td rowspan=9>Stage 1</td>
-      <td>A:Tools</td>
-      <td>B:Blocks</td>
-      <td>C:Comprehension</td>
+      <td align="center">A:Tools and Habits</td>
+      <td align="center">B:Building Blocks</td>
+      <td align="center">C:Jumpstart Comprehension</td>
     </tr>
     <tr>
       <td rowspan=4>
-        Vedio:
-        <br>
+        <b align="center">Vedio</b>
+        <br><br>
         <a href="https://www.engvid.com/english-lessons"><img alt="EngVid" src="https://img.shields.io/badge/EngVid-000000?logo=e&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw"><img alt="James" src="https://img.shields.io/badge/James-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCVBErcpqaokOf4fI5j73K_w"><img alt="Emma" src="https://img.shields.io/badge/Emma-FF0000?logo=youtube&logoColor=white"></a>
@@ -134,7 +134,8 @@
         <a href="https://www.youtube.com/c/TeacherVanessa/videos"><img alt="Vanessa" src="https://img.shields.io/badge/Vanessa-FF0000?logo=youtube&logoColor=white"></a>
       </td>
       <td>
-        IPA:
+        <b align="center">IPA</b>
+        <br>
         <br>
         <a href="https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"><img alt="IPA" src="https://img.shields.io/badge/IPA-000000?logo=wikipedia&logoColor=white"></a>
         <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio"><img alt="Vowel" src="https://img.shields.io/badge/Vowel-000000?logo=wikipedia&logoColor=white"></a>
@@ -257,9 +258,9 @@
     </tr>
     <tr>
       <td rowspan=7>Stage 1</td>
-      <td>A:Tools</td>
-      <td>B:</td>
-      <td>C:</td>
+      <td align="center">A:Tools and Habits</td>
+      <td align="center">B:Building Blocks</td>
+      <td align="center">C:Jumpstart Comprehension</td>
     </tr>
     <tr>
       <td>
@@ -408,7 +409,7 @@
       </td>
     </tr>
     <tr>
-      <td>Stage 2</td>
+      <td rowspan=2>Stage 2</td>
       <td>A:Curve</td>
       <td>B:</td>
       <td>C:</td>
