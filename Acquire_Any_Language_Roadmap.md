@@ -304,10 +304,128 @@
       <td colspan=3><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
     </tr>
     <tr>
-      <td>Stage 1</td>
-      <td>A:</td>
+      <td rowspan=2>Stage 1</td>
+      <td>A:Tools</td>
       <td>B:</td>
       <td>C:</td>
+    </tr>
+    <tr>
+      <td>
+        Content By Level:
+        <br>
+        <a href="https://koohi.cafe"><img src="https://img.shields.io/badge/Koohi-2E51A2?logo=myanimelist&logoColor=white"></a>
+        <a href="https://jpdb.io"><img src="https://img.shields.io/badge/JPDB-2E51A2?logo=myanimelist&logoColor=white"></a>
+        <a href="https://learnjapaneseanime.com/anime-recommendations"><img src="https://img.shields.io/badge/JPAnime-2E51A2?logo=myanimelist&logoColor=white"></a>
+        <a href="https://sentencesearch.neocities.org"><img src="https://img.shields.io/badge/Neocities-FF160B?logo=newjapanprowrestling&logoColor=white"></a>
+        <br><br><br>
+        Video:
+        <br>
+        <a href="https://www.youtube.com/channel/UCLuymDHiOySsAQ9Nc-4NoEQ"><img src="https://img.shields.io/badge/Onomappu-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCqMY-cp1He6IAi1cIz-gX1g"><img src="https://img.shields.io/badge/Sayuri-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCIciBLpZ6BP2XNYTFXb6eRQ/featured"><img src="https://img.shields.io/badge/Asami-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA"><img src="https://img.shields.io/badge/もしもしゆうすけ-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/c/Atashinchi/featured"><img src="https://img.shields.io/badge/Atashinchi-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=XuT6w4-wUio"><img src="https://img.shields.io/badge/Koromo-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"><img src="https://img.shields.io/badge/Hololive-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="http://hukumusume.com/douwa"><img src="https://img.shields.io/badge/Douwa-189EFF?logo=shopware&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg"><img src="https://img.shields.io/badge/%E3%81%97%E3%81%AE%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/playlist?list=PLI7Z3IV_WJlcd4RlcG8ao_mhujDdOAXli"><img src="https://img.shields.io/badge/NamiOhara-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=avoqy0H1CRA&list=PL7d2kjFHoUe-K5oqgN8jcpBJkALmHjCJ7"><img src="https://img.shields.io/badge/ErinGa-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/c/ComprehensibleJapanese"><img src="https://img.shields.io/badge/Beginners-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.tiktok.com/@ricchaadotv"><img src="https://img.shields.io/badge/Ricchaadottv-000000?logo=tiktok&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw"><img src="https://img.shields.io/badge/%E3%81%82%E3%81%8B%E3%81%AD-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCOQyW7GmCyTKwjCJEaTBWRw"><img src="https://img.shields.io/badge/%E7%BE%A9%E5%A6%B9%E7%94%9F%E6%B4%BB-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/videos?view=0&sort=da"><img src="https://img.shields.io/badge/SambonJuku-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.viki.com/v1/explore?country=japan&language=ja"><img src="https://img.shields.io/badge/VIKI-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/c/ChibiMarukoChannel/videos"><img src="https://img.shields.io/badge/LittleMaruko-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q"><img src="https://img.shields.io/badge/%E3%82%B8%E3%83%A3%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%AB%E3%82%BF%E3%83%AF-FF0000?logo=youtube&logoColor=white"></a>
+        <br><br><br>
+        Audio:
+        <br>
+        <a href="https://japanesewithnoriko.com"><img src="https://img.shields.io/badge/Noriko-00FF00?logo=norco&logoColor=white"></a>
+        <a href="https://open.spotify.com/show/4W4jYoKRmjlURKO1fIfcOK"><img src="https://img.shields.io/badge/Nihongo-1DB954?logo=spotify&logoColor=white"></a>
+        <a href="https://konnichiwapodcast.podbean.com"><img src="https://img.shields.io/badge/PodBean-E01F3D?logo=beatsbydre&logoColor=white"></a>
+        <a href="https://open.spotify.com/show/1tHH40EmOge2Ale4nlYWTq?si=bTEvJA5rSiOAqF0H7dgmlQ"><img src="https://img.shields.io/badge/SmallTalk-1DB954?logo=spotify&logoColor=white"></a>
+        <a href="https://radiopublic.com/yuyu-nihongo-WoVgVy/episodes"><img src="https://img.shields.io/badge/YuyuNihongo-CE262F?logo=radiopublic&logoColor=white"></a>
+        <a href="https://open.spotify.com/show/0lBMf4PEpcG7W44lG6ORKR"><img src="https://img.shields.io/badge/SimpleJP-1DB954?logo=spotify&logoColor=white"></a>
+        <a href="https://open.spotify.com/show/6dH6a09LsXj2lc7h7u3my9?si=1YZqU_p1Ss6OyZ1hdZmTxQ"><img src="https://img.shields.io/badge/BasicJP-1DB954?logo=spotify&logoColor=white"></a>
+        <br><br><br>
+        Passive listening archives:
+        <br>
+        <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
+        <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
+        <br><br><br>
+        JP Subtitle Repositories:
+        <br>
+        <a href="https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F"><img src="https://img.shields.io/badge/Kitsunekko-FD755C?logo=kitsu&logoColor=white"></a>
+        <a href="https://itazuraneko.neocities.org/library/sub.html"><img src="https://img.shields.io/badge/Itazuraneko-4EE3C2?logo=instatus&logoColor=white"></a>
+        <a href="https://github.com/Matchoo95/JP-Subtitles"><img src="https://img.shields.io/badge/JPSubtitles-181717?logo=github&logoColor=white"></a>
+        <a href="http://jpsubbers.xyz/Japanese-Subtitles"><img src="https://img.shields.io/badge/JPSubbers-809CC9?logo=subversion&logoColor=white"></a>
+        <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs"><img src="https://img.shields.io/badge/NekomoekissatenSubs-181717?logo=github&logoColor=white"></a>
+        <a href="https://github.com/tastysugar/SweetSub"><img src="https://img.shields.io/badge/SweetSub-181717?logo=github&logoColor=white"></a>
+        <a href="https://nya.iss.one/view/1044354"><img src="https://img.shields.io/badge/IssSub-F36D5D?logo=issuu&logoColor=white"></a>
+        <br><br><br>
+        Resource Repositories:
+        <br>
+        <a href="https://itazuraneko.neocities.org/library/librarymain.html"><img src="https://img.shields.io/badge/ItazuraNeko-57A143?logo=neovim&logoColor=white"></a>
+        <a href="https://learnjapanese.moe/resources"><img src="https://img.shields.io/badge/Moe-ED1C40?logo=meetup&logoColor=white"></a>
+      </td>
+      <td>
+        Phonology:
+        <br>
+        <a href="https://www.tofugu.com/japanese/japanese-pronunciation"><img src="https://img.shields.io/badge/Tofugu-2478CC?logo=contentful&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=ZhVlq7yDQho"><img src="https://img.shields.io/badge/JapanPod101-FF0000?logo=youtube&logoColor=white"></a>
+        <br><br><br>
+        Writing System:
+        <br>
+        <a href="https://www.tofugu.com/japanese/learn-hiragana"><img src="https://img.shields.io/badge/Hiragana-2478CC?logo=contentful&logoColor=white"></a>
+        <a href="https://www.tofugu.com/japanese/learn-katakana"><img src="https://img.shields.io/badge/Katakana-2478CC?logo=contentful&logoColor=white"></a>
+        <a href="https://store.steampowered.com/app/438270/Learn_Japanese_To_Survive_Hiragana_Battle"><img src="https://img.shields.io/badge/HiraganaBattle-1A9FFF?logo=steamdeck&logoColor=white"></a>
+        <a href="https://store.steampowered.com/app/554600/Learn_Japanese_To_Survive_Katakana_War"><img src="https://img.shields.io/badge/KatakanaWar-1A9FFF?logo=steamdeck&logoColor=white"></a>
+        <a href="https://realkana.com"><img src="https://img.shields.io/badge/RealKana-000000?logo=katana&logoColor=white"></a>
+        <a href="https://djtguide.neocities.org/kana/index.html"><img src="https://img.shields.io/badge/DJTKana-57A143?logo=neovim&logoColor=white"></a>
+        <a href="https://kana.pro"><img src="https://img.shields.io/badge/KanaPro-000000?logo=katana&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=CFq2Y43DY0U"><img src="https://img.shields.io/badge/JapanPod101-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://youtu.be/6p9Il_j0zjc"><img src="https://img.shields.io/badge/JapanPodHira-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/watch?v=s6DKRgtVLGA"><img src="https://img.shields.io/badge/JapanPodKata-FF0000?logo=youtube&logoColor=white"></a>
+      </td>
+      <td>
+        Grammar:
+        <br>
+        <a href="http://www.guidetojapanese.org/learn/grammar"><img src="https://img.shields.io/badge/jpGuide-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.imabi.net"><img src="https://img.shields.io/badge/imabi-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://pomax.github.io/nrGrammar"><img src="https://img.shields.io/badge/Pomax-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://itazuraneko.neocities.org/grammar/dojgmain.html"><img src="https://img.shields.io/badge/NeoCities-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.tofugu.com/japanese-grammar"><img src="https://img.shields.io/badge/Tofugu-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://ja.wikibooks.org/wiki/%E4%B8%AD%E5%AD%A6%E6%A0%A1%E5%9B%BD%E8%AA%9E_%E6%96%87%E6%B3%95"><img src="https://img.shields.io/badge/wikiBooks-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://www.kokugobunpou.com/#gsc.tab=0"><img src="https://img.shields.io/badge/kokugo-15C39A?logo=grammarly&logoColor=white"></a>
+        <a href="https://jlptgrammarlist.neocities.org"><img src="https://img.shields.io/badge/NeoCities-15C39A?logo=grammarly&logoColor=white"></a>
+        <br>
+        <a href="https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj"><img src="https://img.shields.io/badge/CureDolly-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/playlist?list=PLd-Z50rqsKFzZBkxhMGK7eacL7E08_Fyr"><img src="https://img.shields.io/badge/JP101-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd"><img src="https://img.shields.io/badge/JPkids-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/featured"><img src="https://img.shields.io/badge/MikuNative-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/videos"><img src="https://img.shields.io/badge/SambonJuku-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB"><img src="https://img.shields.io/badge/JPfromZero-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCrOSvD4kmjTXzR7ov5zwT-A"><img src="https://img.shields.io/badge/Meshclass-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ"><img src="https://img.shields.io/badge/NihongoTabi-FF0000?logo=youtube&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%A3%AE-FF0000?logo=youtube&logoColor=white"></a>
+        <br><br><br>
+        Vocabulary:
+        <br>
+        <a href="https://github.com/chriskempson/japanese-subtitles-word-frequency-list/blob/master/word_freq_report.txt"><img src="https://img.shields.io/badge/WordsFreq-181717?logo=github&logoColor=white"></a>
+        <a href="https://docs.google.com/document/d/1IUWkvBxhoazBSTyRbdyRVk7hfKE51yorE86DCRNQVuw/edit"><img src="https://img.shields.io/badge/OhTalkWho-34A853?logo=googlesheets&logoColor=white"></a>
+        <a href="https://drive.google.com/drive/folders/1g1drkFzokc8KNpsPHoRmDJ4OtMTWFuXi"><img src="https://img.shields.io/badge/Moe's%20List-34A853?logo=googlesheets&logoColor=white"></a>
+        <br>
+        <a href="https://refold.link/JP1K_article_Discord"><img src="https://img.shields.io/badge/JP1K-5865F2?logo=discord&logoColor=white"></a>
+        <a href="https://archive.org/details/JapaneseGlossikaAnkiDeck-All3000PhrasesWithAudio"><img src="https://img.shields.io/badge/Anki3K-666666?logo=internetarchive&logoColor=white"></a>
+        <a href="https://mega.nz/file/VfxSEA6R#YXotcMKjCaCZA7loJ4GxloydIIk7ZlOThRK6IRLUj5g"><img src="https://img.shields.io/badge/AnimeDeck-D9272E?logo=mega&logoColor=white"></a>
+        <a href="http://japanesedecks.blogspot.com/p/free.html"><img src="https://img.shields.io/badge/Mediafire-FF7A59?logo=hubspot&logoColor=white"></a>
+        <a href="https://ankiweb.net/shared/info/493795566"><img src="https://img.shields.io/badge/CoreAnime-02A9FF?logo=anilist&logoColor=white"></a>
+        <a href="https://ankiweb.net/shared/info/266084933"><img src="https://img.shields.io/badge/Wanikani9K-02A9FF?logo=anilist&logoColor=white"></a>
+        <a href="https://tatsumoto-ren.github.io/blog/basic-vocabulary.html"><img src="https://img.shields.io/badge/StarterPack10k-181717?logo=github&logoColor=white"></a>
+        <a href="https://mega.nz/file/nkczVADA#pAl0Rx9-07-En60hF5XChEqYYt8eW7nO7T_PJQP7lyU"><img src="https://img.shields.io/badge/Core2.3k-D9272E?logo=MEGA&logoColor=white"></a>
+      </td>
     </tr>
     <tr>
       <td>Stage 2</td>
