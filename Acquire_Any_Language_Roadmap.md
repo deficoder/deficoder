@@ -271,8 +271,6 @@
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Books:
         <br>
@@ -284,8 +282,6 @@
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Online Reader:
         <br>
@@ -294,8 +290,6 @@
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         British Accent:
         <br>
