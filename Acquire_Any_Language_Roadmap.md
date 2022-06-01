@@ -272,6 +272,8 @@
       <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td>
         Books:
         <br>
@@ -280,13 +282,17 @@
         <a href="https://drive.google.com/file/d/1k6TjcnF8ocTETgLpnaFFAaagPoV0cQvX/view"><img alt="Mastering" src="https://img.shields.io/badge/Mastering-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1_8K142y1vULilttT5InD1Fh_eg6uU9Mb/view"><img alt="Prictice" src="https://img.shields.io/badge/Prictice-4285F4?logo=googledrive&logoColor=white"></a>
       </td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td>
         Online Reader:
         <br>
         <a href="https://apihost.ru/voice-en-us">Text To Speech Reader</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
