@@ -247,8 +247,6 @@
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Rhythm:
         <br>
@@ -259,22 +257,16 @@
         <a href="https://www.youtube.com/playlist?list=PL6vMAFPIKMUi1DJkw1K2S6Op8x0frrgY9"><img alt="Stress" src="https://img.shields.io/badge/RhythmStress-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://tfcs.baruch.cuny.edu/rhythm-intonation-more"><img alt="RhythmMore" src="https://img.shields.io/badge/RhythmMore-ED2224?logo=equinixmetal&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Intonation:
         <br>
         <a href="https://www.youtube.com/playlist?list=PLytLOCUcYQj_BKDX_tfDu2eI83SJuu0Me"><img alt="Intro" src="https://img.shields.io/badge/Pronunce-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=FStyKn4V8cE"><img alt="INTONATION" src="https://img.shields.io/badge/INTONATION-FF0000?logo=youtube&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Books:
         <br>
@@ -283,20 +275,15 @@
         <a href="https://drive.google.com/file/d/1k6TjcnF8ocTETgLpnaFFAaagPoV0cQvX/view"><img alt="Mastering" src="https://img.shields.io/badge/Mastering-4285F4?logo=googledrive&logoColor=white"></a>
         <a href="https://drive.google.com/file/d/1_8K142y1vULilttT5InD1Fh_eg6uU9Mb/view"><img alt="Prictice" src="https://img.shields.io/badge/Prictice-4285F4?logo=googledrive&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Online Reader:
         <br>
         <a href="https://apihost.ru/voice-en-us">Text To Speech Reader</a>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
       <td rowspan=4>
         Audio:
       </td>
