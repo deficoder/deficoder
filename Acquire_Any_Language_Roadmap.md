@@ -224,19 +224,14 @@
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         Tools:
         <br>
         <a href="https://youglish.com"><img alt="Youglish" src="https://img.shields.io/badge/Youglish-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://tophonetics.com"><img alt="2Phonetics" src="https://img.shields.io/badge/ToPhonetics-5F259F?logo=phonepe&logoColor=white"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
       <td>
         American Accent:
         <br>
@@ -250,7 +245,6 @@
         <a href="https://www.youtube.com/channel/UClPyOwXLnSMejFdLvJXjA5A/videos"><img alt="Hadar" src="https://img.shields.io/badge/Hadar-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.mimicmethod.com/master-class/english"><img alt="MimicMethod" src="https://img.shields.io/badge/Mimic-00E7C3?logo=immer&logoColor=black"></a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td></td>
