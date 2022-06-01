@@ -110,7 +110,7 @@
       <td colspan=3 align="center"><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
     </tr>
     <tr>
-      <td rowspan=8>Stage 1</td>
+      <td rowspan=9>Stage 1</td>
       <td>A:Tools</td>
       <td>B:Blocks</td>
       <td>C:Comprehension</td>
@@ -257,7 +257,7 @@
       <td colspan=3 align="center"><a href="https://docs.google.com/document/d/e/2PACX-1vRd4NRekpVOcz0SbFFQ1sLqnnVHTWUWEG4nSdSRpX2GAHBRZbc6NNQu_D_remKz3Y1urMK8k8tWqVmT/pub">Japanese</a></td>
     </tr>
     <tr>
-      <td rowspan=6>Stage 1</td>
+      <td rowspan=7>Stage 1</td>
       <td>A:Tools</td>
       <td>B:</td>
       <td>C:</td>
