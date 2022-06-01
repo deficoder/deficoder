@@ -345,6 +345,14 @@
         <a href="https://open.spotify.com/show/0lBMf4PEpcG7W44lG6ORKR"><img src="https://img.shields.io/badge/SimpleJP-1DB954?logo=spotify&logoColor=white"></a>
         <a href="https://open.spotify.com/show/6dH6a09LsXj2lc7h7u3my9?si=1YZqU_p1Ss6OyZ1hdZmTxQ"><img src="https://img.shields.io/badge/BasicJP-1DB954?logo=spotify&logoColor=white"></a>
       </td>
+    </tr>
+    <tr>
+      <td>
+        Passive listening archives:
+        <br>
+        <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
+        <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
+      </td>
       <td rowspan=3>
         Writing System:
         <br>
@@ -376,14 +384,6 @@
         <a href="https://ankiweb.net/shared/info/266084933"><img src="https://img.shields.io/badge/Wanikani9K-02A9FF?logo=anilist&logoColor=white"></a>
         <a href="https://tatsumoto-ren.github.io/blog/basic-vocabulary.html"><img src="https://img.shields.io/badge/StarterPack10k-181717?logo=github&logoColor=white"></a>
         <a href="https://mega.nz/file/nkczVADA#pAl0Rx9-07-En60hF5XChEqYYt8eW7nO7T_PJQP7lyU"><img src="https://img.shields.io/badge/Core2.3k-D9272E?logo=MEGA&logoColor=white"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Passive listening archives:
-        <br>
-        <a href="https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ"><img src="https://img.shields.io/badge/MEGA-D9272E?logo=mega&logoColor=white"></a>
-        <a href="https://condensedaudiocatalog.com"><img src="https://img.shields.io/badge/Audio-007CE2?logo=audioboom&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -426,14 +426,9 @@
         <a href="https://www.captionpop.com/?nl=ja&tl=ja"><img src="https://img.shields.io/badge/CaptionPOP-48B9C7?logo=popos&logoColor=white"></href>
         <br>
         <a href="https://www.youtube.com/channel/UC4dhumTsAaMVLj94paCBeww"><img src="https://img.shields.io/badge/MinamiChigasaki-FF0000?logo=youtube&logoColor=white"></href>
-<!--         <a href=""><img src=""></href> -->
       </td>
-      <td>
-<!--         <a href=""><img src=""></href> -->
-      </td>
-      <td>
-<!--         <a href=""><img src=""></href> -->
-      </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Stage 3</td>
