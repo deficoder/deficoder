@@ -184,7 +184,7 @@
       <td colspan=3 align="center"><a href="https://docs.google.com/document/d/e/2PACX-1vR7g3aMFMBp2_Sj7qdHdj85fl7297lnHQxi-USaC47AbOsWcu9u1npIV77tbwLKZVstFo4aPFMSpXlE/pub">English</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Stage 1</td>
+      <td rowspan=8>Stage 1</td>
       <td>A:Tools</td>
       <td>B:Blocks</td>
       <td>C:Comprehension</td>
@@ -204,8 +204,11 @@
         <a href="https://www.youtube.com/channel/UC9PNMpGBnXJ4qO85-sqWGKg/playlists"><img alt="Fingtam" src="https://img.shields.io/badge/Fingtam-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UC1hkLZGmxdxwfhz72vKdtdA/videos"><img alt="Smile" src="https://img.shields.io/badge/Smile-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/c/TeacherVanessa/videos"><img alt="Vanessa" src="https://img.shields.io/badge/Vanessa-FF0000?logo=youtube&logoColor=white"></a>
-        <br><br><br>
-        Audio:
+      </td>
+    </tr>
+    <tr>
+      <td>
+      Audio:
       </td>
       <td>
         IPA:
