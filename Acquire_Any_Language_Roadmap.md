@@ -259,12 +259,17 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td rowspan=4>
+        Audio:
+      </td>
       <td>
         Intonation:
         <br>
         <a href="https://www.youtube.com/playlist?list=PLytLOCUcYQj_BKDX_tfDu2eI83SJuu0Me"><img alt="Intro" src="https://img.shields.io/badge/Pronunce-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/watch?v=FStyKn4V8cE"><img alt="INTONATION" src="https://img.shields.io/badge/INTONATION-FF0000?logo=youtube&logoColor=white"></a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -285,9 +290,7 @@
     </tr>
     <tr>
       <td></td>
-      <td rowspan=4>
-        Audio:
-      </td>
+      <td></td>
       <td>
         British Accent:
         <br>
