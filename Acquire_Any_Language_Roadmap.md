@@ -297,8 +297,8 @@
         <a href="https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/videos"><img src="https://img.shields.io/badge/SambonJuku-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB"><img src="https://img.shields.io/badge/JPfromZero-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCrOSvD4kmjTXzR7ov5zwT-A"><img src="https://img.shields.io/badge/Meshclass-FF0000?logo=youtube&logoColor=white"></a>
-        <a href="https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ"><img src="https://img.shields.io/badge/NihongoTabi-FF0000?logo=youtube&logoColor=white"></a>
         <br>
+        <a href="https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ"><img src="https://img.shields.io/badge/NihongoTabi-FF0000?logo=youtube&logoColor=white"></a>
         <a href="https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%A3%AE-FF0000?logo=youtube&logoColor=white"></a>
       </td>
     </tr>
@@ -445,7 +445,11 @@
   </tbody>
 </table>
 
-<h4 align="center">Create learning materials</h4>
+<p align="center">
+  <h4>Create learning materials</h4>
+  <br>
+  <img align="center" width="160" height="120" src="https://media.giphy.com/media/2iQoltHofbi0MrRoIu/giphy.gif">
+</p>
 
 <h5>Video Download</h5>
 1. Netflix: Open `FlixGrab` and Paste Video URL
@@ -470,7 +474,8 @@
 youtube-dl --extract-audio --audio-format mp3 --write-sub -o '%(title)s.{vedio_id}.%(ext)s' -k {vedio_id} --restrict-filenames
 ```
 
-<h5>Clips to SRS</td>
+<h5>Clips to SRS</h5>
+
 1. Open subs2srs choise target file 
 ```
 Subs1     -> target.srt
@@ -480,14 +485,19 @@ Video     -> target clips video
 Check Box -> Generate audio/video/snapshots clips
 Naming    -> Name of Anki Deck
 ```
+
 2. Preview: Check matches subtitles
+
 3. Click `Go!` Wait for the clip to finish
+
 4. Anki Import output.tsv
 ```
 Cards Sequence: Tags,sequence marker,Audio,Snapshot,Expression
 ```
+
 5. Copy Media Files
 ```
 cp output.media/* %APPDATA%/anki2/User 1/collection.media
 ```
+
 6. Sync Anki Deck
