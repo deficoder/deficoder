@@ -539,13 +539,13 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 |Vowels|           a         |         i         |          u          |        e          |          o           |      Consonant    | ya  | yu  | yo  |
 | ---- | ------------------- | ----------------- | ------------------- | ----------------- | -------------------- | ----------------- | --- | --- | --- |
-|      | あ <sub>a</sub>(ア) | い <sub>i</sub>(イ)| う <sub>u</sub>(ウ) | え <sub>e</sub>(エ)| お <sub>o</sub>(オ)  |ん <sub>n</sub>(ン)||||
-|      |ああ<sub>aa</sub>    | いい<sub>ii</sub>  | うう<sub>uu</sub>   | ええ<sub>ee</sub>  | おお<sub>oo</sub>    ||||| 
+|      | あ <sub>[a]</sub>(ア) | い <sub>[i]</sub>(イ)| う <sub>[u]</sub>(ウ) | え <sub>[e]</sub>(エ)| お <sub>[o]</sub>(オ)  |ん <sub>[n]</sub>(ン)||||
+|      |ああ<sub>[aa]</sub>    | いい<sub>[ii]</sub>  | うう<sub>[uu]</sub>   | ええ<sub>[ee]</sub>  | おお<sub>[oo]</sub>    ||||| 
 |      |                     |                   |                     | えい<sub>ei</sub>  | おう<sub>ou</sub>    |||||
 |||||||||||
-|  K   | か<sub>ka</sub>(カ) | き<sub>ki</sub>(キ)| く<sub>ku</sub>(ク) | け<sub>ke</sub>(ケ)| こ<sub>ko</sub>(コ)  |っ+k<sub>kk</sub>| きゃ<sub>kya</sub>(キャ)| きゅ<sub>kyu</sub>(キュ)| きょ<sub>kyo</sub>(キョ)|
-|  S   | さ<sub>sa</sub>(サ) | し<sub>shi</sub>(シ)| す<sub>su</sub>(ス)|せ<sub>se</sub>(セ) | そ<sub>so</sub>(ソ)  |っ+s<sub>ss</sub>| しゃ<sub>sha</sub>(シャ)| しゅ<sub>shu</sub>(シュ)| しょ<sub>sho</sub>(ショ)|
-|  T   | た<sub>ta</sub>(タ) | ち<sub>chi</sub>(チ)|つ<sub>tsu</sub>(ツ)| て<sub>te</sub>(テ)| と<sub>to</sub>(ト)  |っ+t<sub>tt</sub>| ちゃ<sub>cha</sub>(チャ)| ちゅ<sub>chu</sub>(チュ)| ちょ<sub>cho</sub>(チョ)|
+|  K   | か<sub>[ka]</sub>(カ) | き<sub>[ki]</sub>(キ)| く<sub>[ku]</sub>(ク) | け<sub>[ke]</sub>(ケ)| こ<sub>[ko]</sub>(コ)  |っ+k<sub>[kk]</sub>| き<sub>ゃ</sub> <sub>[kya]</sub>(キ<sub>ャ</sub>)| きゅ<sub> [kyu]</sub>(キ<sub>ュ</sub>)| き<sub>ょ</sub> <sub>[kyo]</sub>(キ<sub>ョ</sub>)|
+|  S   | さ<sub>[sa]</sub>(サ) | し<sub>[shi]</sub>(シ)| す<sub>[su]</sub>(ス)|せ<sub>[se]</sub>(セ) | そ<sub>[so]</sub>(ソ)  |っ+s<sub>[ss]</sub>| し<sub>ゃ</sub> <sub>[sha]</sub>(シ<sub>ャ</sub>)| し<sub>ゅ</sub> <sub>[shu]</sub>(シ<sub>ュ</sub>)| し<sub>ょ</sub> <sub>[sho]</sub>(シ<sub>ョ</sub>)|
+|  T   | た<sub>[ta]</sub>(タ) | ち<sub>[chi]</sub>(チ)|つ<sub>[tsu]</sub>(ツ)| て<sub>[te]</sub>(テ)| と<sub>[to]</sub>(ト)  |っ+t<sub>tt</sub>| ち<sub>ゃ</sub> <sub>[cha]</sub>(チ<sub>ャ</sub>)| ち<sub>ゅ</sub> <sub>[chu]</sub>(チ<sub>ュ</sub>)| ち<sub>ょ</sub> <sub>[cho]</sub>(チ<sub>ョ</sub>)|
 |  N   | な<sub>na</sub>(ナ) | に<sub>ni</sub>(ニ) | ぬ<sub>nu</sub>(ヌ)| ね<sub>ne</sub>(ネ) | の<sub>no</sub>(ノ) |       | にゃ<sub>nya</sub>(ニャ)| にゅ<sub>nyu</sub>(ニュ)| にょ<sub>nyo</sub>(ニョ)|
 |  H   | は<sub>ha</sub>(ハ) | ひ<sub>hi</sub>(ヒ) | ふ<sub>fu</sub>(フ)| へ<sub>he</sub>(ヘ) | ほ<sub>ho</sub>(ホ) |       | ひゃ<sub>hya</sub>(ヒャ)| ひゅ<sub>hyu</sub>(ヒュ)| ひょ<sub>hyo</sub>(ヒョ)|
 |  M   | ま<sub>ma</sub>(マ) | み<sub>mi</sub>(ミ) | む<sub>mu</sub>(ム)| め<sub>me</sub>(メ) | も<sub>mo</sub>(モ) |       | みゃ<sub>mya</sub>(ミャ)| みゅ<sub>myu</sub>(ミュ)| みょ<sub>myo</sub>(ミョ)|
