@@ -537,24 +537,24 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 <h4 align="center">Japanese Syllabary</h4>
 
-|Vowels|           a          |         i             |          u             |        e             |          o           |      Consonant    | ya  | yu  | yo  |
-| ---- | -------------------- | --------------------- | ---------------------- | -------------------- | -------------------- | ----------------- | --- | --- | --- |
-|      | あ <sub>a</sub>(ア)  | い <sub>i</sub>(イ)    | う <sub>u</sub>(ウ)    | え <sub>e</sub>(エ)   | お <sub>o</sub>(オ)    |ん <sub>n</sub>(ン)||||
-|      |ああ<sub>aa</sub>(ア一)| いい<sub>ii</sub>(イ一)| うう<sub>uu</sub>(ウ一)| ええ<sub>ee</sub>(エ一)| おお<sub>oo</sub>(オ一)||||| 
-|      |                      |                   |                     | えい<sub>ei</sub>  | おう<sub>ou</sub>    |||||
+|Vowels|           a         |         i         |          u          |        e          |          o           |      Consonant    | ya  | yu  | yo  |
+| ---- | ------------------- | ----------------- | ------------------- | ----------------- | -------------------- | ----------------- | --- | --- | --- |
+|      | あ <sub>a</sub>(ア) | い <sub>i</sub>(イ)| う <sub>u</sub>(ウ) | え <sub>e</sub>(エ)| お <sub>o</sub>(オ)  |ん <sub>n</sub>(ン)||||
+|      |ああ<sub>aa</sub>    | いい<sub>ii</sub>  | うう<sub>uu</sub>   | ええ<sub>ee</sub>  | おお<sub>oo</sub>    ||||| 
+|      |                     |                   |                     | えい<sub>ei</sub>  | おう<sub>ou</sub>    |||||
 |||||||||||
-|  K   | か<sub>ka</sub>(カ) | き<sub>ki</sub>(キ)| く<sub>ku</sub>(ク) | け<sub>ke</sub>(ケ)| こ<sub>ko</sub>(コ)  |っ+k<sub>kk</sub>| きゃ<sub>kya</sub>     | きゅ<sub>kyu</sub>     | きょ<sub>kyo</sub>     |
-|  S   | さ<sub>sa</sub>(サ) | し<sub>shi</sub>(シ)| す<sub>su</sub>(ス)|せ<sub>se</sub>(セ) | そ<sub>so</sub>(ソ)  |っ+s<sub>ss</sub>| しゃ<sub>sha</sub>     | しゅ<sub>shu</sub>     | しょ<sub>sho</sub>     |
-|  T   | た<sub>ta</sub>(タ) | ち<sub>chi</sub>(チ)|つ<sub>tsu</sub>(ツ)| て<sub>te</sub>(テ)| と<sub>to</sub>(ト)  |っ+t<sub>tt</sub>| ちゃ<sub>cha</sub>     | ちゅ<sub>chu</sub>     | ちょ<sub>cho</sub>     |
-|  N   | な<sub>na</sub>(ナ) | に<sub>ni</sub>(ニ) | ぬ<sub>nu</sub>(ヌ)| ね<sub>ne</sub>(ネ) | の<sub>no</sub>(ノ) |       | にゃ<sub>nya</sub>     | にゅ<sub>nyu</sub>     | にょ<sub>nyo</sub>     |
-|  H   | は<sub>ha</sub>(ハ) | ひ<sub>hi</sub>(ヒ) | ふ<sub>fu</sub>(フ)| へ<sub>he</sub>(ヘ) | ほ<sub>ho</sub>(ホ) |       | ひゃ<sub>hya</sub>     | ひゅ<sub>hyu</sub>     | ひょ<sub>hyo</sub>     |
-|  M   | ま<sub>ma</sub>(マ) | み<sub>mi</sub>(ミ) | む<sub>mu</sub>(ム)| め<sub>me</sub>(メ) | も<sub>mo</sub>(モ) |       | みゃ<sub>mya</sub>     | みゅ<sub>myu</sub>     | みょ<sub>myo</sub>     |
+|  K   | か<sub>ka</sub>(カ) | き<sub>ki</sub>(キ)| く<sub>ku</sub>(ク) | け<sub>ke</sub>(ケ)| こ<sub>ko</sub>(コ)  |っ+k<sub>kk</sub>| きゃ<sub>kya</sub>(キャ)| きゅ<sub>kyu</sub>(キュ)| きょ<sub>kyo</sub>(キョ)|
+|  S   | さ<sub>sa</sub>(サ) | し<sub>shi</sub>(シ)| す<sub>su</sub>(ス)|せ<sub>se</sub>(セ) | そ<sub>so</sub>(ソ)  |っ+s<sub>ss</sub>| しゃ<sub>sha</sub>(シャ)| しゅ<sub>shu</sub>(シュ)| しょ<sub>sho</sub>(ショ)|
+|  T   | た<sub>ta</sub>(タ) | ち<sub>chi</sub>(チ)|つ<sub>tsu</sub>(ツ)| て<sub>te</sub>(テ)| と<sub>to</sub>(ト)  |っ+t<sub>tt</sub>| ちゃ<sub>cha</sub>(チャ)| ちゅ<sub>chu</sub>(チュ)| ちょ<sub>cho</sub>(チョ)|
+|  N   | な<sub>na</sub>(ナ) | に<sub>ni</sub>(ニ) | ぬ<sub>nu</sub>(ヌ)| ね<sub>ne</sub>(ネ) | の<sub>no</sub>(ノ) |       | にゃ<sub>nya</sub>(ニャ)| にゅ<sub>nyu</sub>(ニュ)| にょ<sub>nyo</sub>(ニョ)|
+|  H   | は<sub>ha</sub>(ハ) | ひ<sub>hi</sub>(ヒ) | ふ<sub>fu</sub>(フ)| へ<sub>he</sub>(ヘ) | ほ<sub>ho</sub>(ホ) |       | ひゃ<sub>hya</sub>(ヒャ)| ひゅ<sub>hyu</sub>(ヒュ)| ひょ<sub>hyo</sub>(ヒョ)|
+|  M   | ま<sub>ma</sub>(マ) | み<sub>mi</sub>(ミ) | む<sub>mu</sub>(ム)| め<sub>me</sub>(メ) | も<sub>mo</sub>(モ) |       | みゃ<sub>mya</sub>(ミャ)| みゅ<sub>myu</sub>(ミュ)| みょ<sub>myo</sub>(ミョ)|
 |  Y   | や<sub>ya</sub>(ヤ) |                     | ゆ<sub>yu</sub>(ユ)|                    | よ<sub>yo</sub>(ヨ) |       |                        |                        |
-|  R   | ら<sub>ra</sub>(ラ) | り<sub>ri</sub>(リ) | る<sub>ru</sub>(ル) | れ<sub>re</sub>(レ)| ろ<sub>ro</sub>(ロ) |       | りゃ<sub>rya</sub>     | りゅ<sub>ryu</sub>     | りょ<sub>ryo</sub>     |
+|  R   | ら<sub>ra</sub>(ラ) | り<sub>ri</sub>(リ) | る<sub>ru</sub>(ル) | れ<sub>re</sub>(レ)| ろ<sub>ro</sub>(ロ) |       | りゃ<sub>rya</sub>(リャ)| りゅ<sub>ryu</sub>(リュ)| りょ<sub>ryo</sub>(リョ)|
 |  W   | わ<sub>wa</sub>(ワ) |                     |                    |                    | を<sub>wo</sub>(ヲ) |       |                        |                        |
 |||||||||||
-|  G  | が<sub>ga</sub>(ガ) | ぎ<sub>gi</sub>(ギ) | ぐ<sub>gu</sub>(グ) | げ<sub>ge</sub>(ゲ) | ご<sub>go</sub>(ゴ) |       | ぎゃ<sub>gya</sub>     | ぎゅ<sub>gyu</sub>     | ぎょ<sub>gyo</sub>     |
-|  Z  | ざ<sub>za</sub>(ザ) | じ<sub>ji</sub>(ジ) | ず<sub>zu</sub>(ズ) | ぜ<sub>ze</sub>(ゼ) | ぞ<sub>zo</sub>(ゾ) |       | じゃ<sub>ja</sub>      | じゅ<sub>ju</sub>      | じょ<sub>jo</sub>      |
-|  D  | だ<sub>da</sub>(ダ) | ぢ<sub>ji</sub>(ヂ) | づ<sub>zu</sub>(ヅ) | で<sub>de</sub>(デ) | ど<sub>do</sub>(ド) |       | ぢゃ<sub>ja(dja)</sub> | ぢゅ<sub>ja(dja)</sub> | ぢょ<sub>jo(djo)</sub> |
-|  B  | ば<sub>ba</sub>(バ) | び<sub>bi</sub>(ビ) | ぶ<sub>bu</sub>(ブ) | べ<sub>be</sub>(ベ) | ぼ<sub>bo</sub>(ボ) |       | びゃ<sub>bya</sub>     | びゅ<sub>byu</sub>     | びょ<sub>byo</sub>     |
-|  P  | ぱ<sub>pa</sub>(パ) | ぴ<sub>pi</sub>(ピ) | ぷ<sub>pu</sub>(プ) | ぺ<sub>pe</sub>(ペ) | ぽ<sub>po</sub>(ポ) |っ+p<sub>pp</sub>| ぴゃ<sub>pya</sub>     | ぴゅ<sub>pyu</sub>     | ぴょ<sub>pyo</sub>     |
+|  G  | が<sub>ga</sub>(ガ) | ぎ<sub>gi</sub>(ギ) | ぐ<sub>gu</sub>(グ) | げ<sub>ge</sub>(ゲ) | ご<sub>go</sub>(ゴ) |       | ぎゃ<sub>gya</sub>(ギャ)| ぎゅ<sub>gyu</sub>(ギュ)| ぎょ<sub>gyo</sub>(ギョ)|
+|  Z  | ざ<sub>za</sub>(ザ) | じ<sub>ji</sub>(ジ) | ず<sub>zu</sub>(ズ) | ぜ<sub>ze</sub>(ゼ) | ぞ<sub>zo</sub>(ゾ) |       | じゃ<sub>ja</sub>(ジャ) | じゅ<sub>ju</sub>(ジュ) | じょ<sub>jo</sub>(ジョ) |
+|  D  | だ<sub>da</sub>(ダ) | ぢ<sub>ji</sub>(ヂ) | づ<sub>zu</sub>(ヅ) | で<sub>de</sub>(デ) | ど<sub>do</sub>(ド) |       | ぢゃ<sub>ja</sub>(ヂャ) | ぢゅ<sub>ja</sub>(ヂュ) | ぢょ<sub>jo</sub>(ヂョ) |
+|  B  | ば<sub>ba</sub>(バ) | び<sub>bi</sub>(ビ) | ぶ<sub>bu</sub>(ブ) | べ<sub>be</sub>(ベ) | ぼ<sub>bo</sub>(ボ) |       | びゃ<sub>bya</sub>(ビャ)| びゅ<sub>byu</sub>(ビュ)| びょ<sub>byo</sub>(ビョ)|
+|  P  | ぱ<sub>pa</sub>(パ) | ぴ<sub>pi</sub>(ピ) | ぷ<sub>pu</sub>(プ) | ぺ<sub>pe</sub>(ペ) | ぽ<sub>po</sub>(ポ) |っ+p<sub>pp</sub>| ぴゃ<sub>pya</sub>(ピャ)| ぴゅ<sub>pyu</sub>(ピュ)| ぴょ<sub>pyo</sub>(ピョ)|
