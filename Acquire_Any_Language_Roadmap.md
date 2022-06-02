@@ -537,12 +537,12 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 <h4 align="center">Japanese Syllabary</h4>
 
-|Vowels|           a         |         i       |          u          |        e        |          o           | Combo | ya  | yu  | yo  |
+|Vowels|           a         |         i       |          u          |        e        |          o           | Consonant | ya  | yu  | yo  |
 | ---- | ------------------- | --------------- | ------------------- | --------------- | -------------------- | ----- | --- | --- | --- |
-|      | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>       |||||
-|      | ああ<sub>aa</sub>   | いい<sub>ii</sub>|うう<sub>uu[ɯɯ]</sub>| ええ<sub>ee</sub>| おお<sub>oo</sub>    |えい<sub>ei</sub> おう<sub>ou</sub>||||
+|      | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>       |ん<sub>n</sub>||||
+|      | ああ<sub>aa</sub>   | いい<sub>ii</sub>|うう<sub>uu[ɯɯ]</sub>| ええ<sub>ee</sub>| おお<sub>oo</sub>    ||||| 
+|      |                    |                  |                     | えい<sub>ei</sub>| おう<sub>ou</sub>    |||||
 |||||||||||
-|      | ん<sub>n</sub>      |
 |  K   | か<sub>ka</sub>     | き<sub>ki</sub> | く<sub>ku[kɯ]</sub>  | け<sub>ke</sub> | こ<sub>ko</sub>      |っ+k<sub>kk</sub>| きゃ<sub>kya</sub>     | きゅ<sub>kyu</sub>     | きょ<sub>kyo</sub>     |
 |  S   | さ<sub>sa</sub>     | し<sub>shi</sub>| す<sub>su[sɯ]</sub>  | せ<sub>se</sub> | そ<sub>so</sub>      |っ+s<sub>ss</sub>| しゃ<sub>sha</sub>     | しゅ<sub>shu</sub>     | しょ<sub>sho</sub>     |
 |  T   | た<sub>ta</sub>     | ち<sub>chi</sub>| つ<sub>tsu[tsɯ]</sub>| て<sub>te</sub> | と<sub>to</sub>      |っ+t<sub>tt</sub>| ちゃ<sub>cha</sub>     | ちゅ<sub>chu</sub>     | ちょ<sub>cho</sub>     |
