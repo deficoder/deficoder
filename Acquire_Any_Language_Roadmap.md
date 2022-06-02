@@ -537,7 +537,15 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 <h4 align="center">Japanese Syllabary</h4>
 
-|     |         a       |         i       |         u          |        e        |         o       |
-| --- | --------------- | --------------- | ------------------ | --------------- | --------------- |
-|     | あ<sub>a</sub>  | い<sub>i</sub>  | う<sub>u[ɯ]</sub>   | え<sub>e</sub>  | お<sub>o</sub>  |
-|  K  | か<sub>ka</sub> | き<sub>ki</sub> | く<sub>ku[kɯ]</sub> | け<sub>ke</sub> | こ<sub>ko</sub> |
+|     |           a         |         i       |          u          |        e        |          o          |       n        |
+| --- | ------------------- | --------------- | ------------------- | --------------- | ------------------- | -------------- |
+|     | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>      | ん<sub>n</sub> |
+|  K  | か<sub>ka</sub>     | き<sub>ki</sub> | く<sub>ku[kɯ]</sub>  | け<sub>ke</sub> | こ<sub>ko</sub>     |                |
+|  S  | さ<sub>sa</sub>     | し<sub>shi</sub>| す<sub>su[sɯ]</sub>  | せ<sub>se</sub> | そ<sub>so</sub>     |                |
+|  T  | た<sub>ta</sub>     | ち<sub>chi</sub>| つ<sub>tsu[tsɯ]</sub>| て<sub>te</sub> | と<sub>to</sub>     |                |
+|  N  | な<sub>na</sub>     | に<sub>ni</sub> | ぬ<sub>nu[nɯ]</sub>  | ね<sub>ne</sub> | の<sub>no</sub>     |                |
+|  H  | は<sub>ha</sub>     | ひ<sub>hi</sub> | ふ<sub>fu[ɸɯ]</sub>  | へ<sub>he</sub> | ほ<sub>ho</sub>     |                |
+|  M  | ま<sub>ma</sub>     | み<sub>mi</sub> | む<sub>mu[mɯ]</sub>  | め<sub>me</sub> | も<sub>mo</sub>     |                |
+|  Y  | や<sub>ya[ja]</sub> |                 | ゆ<sub>yu[jɯ]</sub>  |                 | よ<sub>yo[jo]</sub> |                |
+|  R  | ら<sub>ra</sub>     | り<sub>ri</sub> | る<sub>ru[rɯ]</sub>  | れ<sub>re</sub> | ろ<sub>ro</sub>     |                |
+|  W  | わ<sub>wa</sub>     |                 |                      |                 | を<sub>wo</sub>     |                |
