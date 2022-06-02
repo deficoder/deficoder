@@ -375,6 +375,10 @@
       <td rowspan=3>
         <b>Writing System</b>
         <br><br>
+        <a href="https://en.wikipedia.org/wiki/Hiragana"><img src="https://img.shields.io/badge/Hiragana-000000?logo=wikipedia&logoColor=white"></a>
+        <a href="https://en.wikipedia.org/wiki/Katakana"><img src="https://img.shields.io/badge/Katakana-000000?logo=wikipedia&logoColor=white"></a>
+        <a href="https://en.wikipedia.org/wiki/Y%C5%8Don"><img src="https://img.shields.io/badge/Y%C5%8Don-000000?logo=wikipedia&logoColor=white"></a>
+        <br>
         <a href="https://www.tofugu.com/japanese/learn-hiragana"><img src="https://img.shields.io/badge/Hiragana-2478CC?logo=contentful&logoColor=white"></a>
         <a href="https://www.tofugu.com/japanese/learn-katakana"><img src="https://img.shields.io/badge/Katakana-2478CC?logo=contentful&logoColor=white"></a>
         <br>
@@ -403,11 +407,11 @@
         <br>
         <a href="https://mega.nz/file/VfxSEA6R#YXotcMKjCaCZA7loJ4GxloydIIk7ZlOThRK6IRLUj5g"><img src="https://img.shields.io/badge/AnimeDeck-D9272E?logo=mega&logoColor=white"></a>
         <a href="http://japanesedecks.blogspot.com/p/free.html"><img src="https://img.shields.io/badge/Mediafire-FF7A59?logo=hubspot&logoColor=white"></a>
+        <br>
         <a href="https://ankiweb.net/shared/info/493795566"><img src="https://img.shields.io/badge/CoreAnime-02A9FF?logo=anilist&logoColor=white"></a>
-        <br>
         <a href="https://ankiweb.net/shared/info/266084933"><img src="https://img.shields.io/badge/Wanikani9K-02A9FF?logo=anilist&logoColor=white"></a>
-        <a href="https://tatsumoto-ren.github.io/blog/basic-vocabulary.html"><img src="https://img.shields.io/badge/StarterPack10k-181717?logo=github&logoColor=white"></a>
         <br>
+        <a href="https://tatsumoto-ren.github.io/blog/basic-vocabulary.html"><img src="https://img.shields.io/badge/StarterPack10k-181717?logo=github&logoColor=white"></a>
         <a href="https://mega.nz/file/nkczVADA#pAl0Rx9-07-En60hF5XChEqYYt8eW7nO7T_PJQP7lyU"><img src="https://img.shields.io/badge/Core2.3k-D9272E?logo=MEGA&logoColor=white"></a>
       </td>
     </tr>
