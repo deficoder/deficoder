@@ -539,7 +539,7 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 |Vowels|           a         |         i       |          u          |        e        |          o           | Consonant | ya  | yu  | yo  |
 | ---- | ------------------- | --------------- | ------------------- | --------------- | -------------------- | ----- | --- | --- | --- |
-|      | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>       |ん<sub>n</sub>||||
+|      | あ<sub>a</sub>ア    | い<sub>i</sub>イ | う<sub>u[ɯ]</sub>ウ | え<sub>e</sub>エ| お<sub>o</sub>オ      |ん<sub>n</sub>ン||||
 |      | ああ<sub>aa</sub>   | いい<sub>ii</sub>|うう<sub>uu[ɯɯ]</sub>| ええ<sub>ee</sub>| おお<sub>oo</sub>    ||||| 
 |      |                    |                  |                     | えい<sub>ei</sub>| おう<sub>ou</sub>    |||||
 |||||||||||
