@@ -534,3 +534,10 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 ```
 
 6. Sync Anki Deck
+
+<h4 align="center">Japanese Syllabary</h4>
+
+|     |         a       |         i       |         u          |        e        |         o       |
+| --- | --------------- | --------------- | ------------------ | --------------- | --------------- |
+|     | あ<sub>a</sub>  | い<sub>i</sub>  | う<sub>u[ɯ]</sub>   | え<sub>e</sub>  | お<sub>o</sub>  |
+|  K  | か<sub>ka</sub> | き<sub>ki</sub> | く<sub>ku[kɯ]</sub> | け<sub>ke</sub> | こ<sub>ko</sub> |
