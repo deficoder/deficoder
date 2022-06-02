@@ -537,9 +537,9 @@ cp output.media/* %APPDATA%/anki2/User 1/collection.media
 
 <h4 align="center">Japanese Syllabary</h4>
 
-|     |           a         |         i       |          u          |        e        |          o          |       n        |   |            ya         |   yu   |   yo  |
+|     |           a         |         i       |          u          |        e        |          o          |       n        | Combo |            ya         |   yu   |   yo  |
 | --- | ------------------- | --------------- | ------------------- | --------------- | ------------------- | -------------- | - | ---------------------- |
-|     | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>      | ん<sub>n</sub> |   |                        |
+|     | あ<sub>a</sub>      | い<sub>i</sub>  | う<sub>u[ɯ]</sub>    | え<sub>e</sub>  | お<sub>o</sub>      | ん<sub>n</sub> |   |                        |                        |                        |
 |  K  | か<sub>ka</sub>     | き<sub>ki</sub> | く<sub>ku[kɯ]</sub>  | け<sub>ke</sub> | こ<sub>ko</sub>     |                |   | きゃ<sub>kya</sub>     | きゅ<sub>kyu</sub>     | きょ<sub>kyo</sub>     |
 |  S  | さ<sub>sa</sub>     | し<sub>shi</sub>| す<sub>su[sɯ]</sub>  | せ<sub>se</sub> | そ<sub>so</sub>     |                |   | しゃ<sub>sha</sub>     | しゅ<sub>shu</sub>     | しょ<sub>sho</sub>     |
 |  T  | た<sub>ta</sub>     | ち<sub>chi</sub>| つ<sub>tsu[tsɯ]</sub>| て<sub>te</sub> | と<sub>to</sub>     |                |   | ちゃ<sub>cha</sub>     | ちゅ<sub>chu</sub>     | ちょ<sub>cho</sub>     |
