@@ -336,7 +336,7 @@ The comprehension levels below describe the stages between zero comprehension an
         <td>You can follow the story, but miss some ideas and plot points</td>
       </tr>
       <tr>
-        <td rowspan=2 align="center">Level 5: Comfortable</td>
+        <td rowspan=3 align="center">Level 5: Comfortable</td>
         <td>You understand nearly every sentence but miss an occasional word or phrase</td>
       </tr>
       <tr>
